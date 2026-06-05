@@ -45,7 +45,7 @@ return render.Root(
                 render.Text(
                     content = "(" + pos + ")",
                 ),
-                render.Text(
+                render.WrappedText(
                     content = definition,
                 ),
                 render.Text(
