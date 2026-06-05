@@ -39,16 +39,10 @@ return render.Root(
     child = render.Marquee(
         child = render.Column(
             children = [
-                render.Text(
-                    content = word,
-                ),
-                render.Text(
-                    content = "(" + pos + ")",
-                ),
-                render.Text(
-                    content = definition,
-                ),
-            ],
+                render.Text(content = word),
+                render.Text(content = "(" + pos + ")"),
+                render.Text(content = definition),
+            ]
         ),
         height = 25,
         offset_start = 23,
