@@ -3,257 +3,306 @@
     "word": "saudade",
     "language": "Portuguese",
     "definition": "A deep longing for something absent or lost.",
-    "example": "The old photograph filled him with saudade."
+    "example": "The old photograph filled him with saudade.",
+    "pos": "concept"
   },
   {
     "word": "hiraeth",
     "language": "Welsh",
     "definition": "Longing for a home that may never have existed.",
-    "example": "The story awakened a sense of hiraeth."
+    "example": "The story awakened a sense of hiraeth.",
+    "pos": "concept"
   },
   {
     "word": "sehnsucht",
     "language": "German",
     "definition": "Yearning for an idealized future.",
-    "example": "He felt sehnsucht for a different life."
+    "example": "He felt sehnsucht for a different life.",
+    "pos": "concept"
   },
   {
     "word": "weltschmerz",
     "language": "German",
     "definition": "Sadness about the world's imperfections.",
-    "example": "The news left her with weltschmerz."
+    "example": "The news left her with weltschmerz.",
+    "pos": "concept"
   },
   {
     "word": "komorebi",
     "language": "Japanese",
     "definition": "Sunlight filtering through tree leaves.",
-    "example": "Komorebi danced across the trail."
+    "example": "Komorebi danced across the trail.",
+    "pos": "concept"
   },
   {
     "word": "fernweh",
     "language": "German",
     "definition": "A longing for distant places.",
-    "example": "The atlas stirred her fernweh."
+    "example": "The atlas stirred her fernweh.",
+    "pos": "concept"
   },
   {
     "word": "toska",
     "language": "Russian",
     "definition": "Profound spiritual melancholy.",
-    "example": "A quiet toska lingered after goodbye."
+    "example": "A quiet toska lingered after goodbye.",
+    "pos": "concept"
   },
   {
     "word": "ubuntu",
     "language": "Nguni",
     "definition": "Humanity expressed through connection.",
-    "example": "His actions reflected ubuntu."
+    "example": "His actions reflected ubuntu.",
+    "pos": "concept"
   },
   {
     "word": "lagom",
     "language": "Swedish",
     "definition": "Not too much and not too little.",
-    "example": "The design felt perfectly lagom."
+    "example": "The design felt perfectly lagom.",
+    "pos": "concept"
   },
   {
     "word": "hygge",
     "language": "Danish",
     "definition": "A feeling of cozy contentment.",
-    "example": "The fire and tea created hygge."
+    "example": "The fire and tea created hygge.",
+    "pos": "concept"
   },
   {
     "word": "liminal",
     "definition": "Existing at a threshold or transition.",
-    "example": "Graduation felt like a liminal moment."
+    "example": "Graduation felt like a liminal moment.",
+    "pos": "adj"
   },
   {
     "word": "numinous",
     "definition": "Having a spiritual or mysterious quality.",
-    "example": "The cathedral felt numinous."
+    "example": "The cathedral felt numinous.",
+    "pos": "adj"
   },
   {
     "word": "ineffable",
     "definition": "Too great or unusual to describe in words.",
-    "example": "The view inspired an ineffable awe."
+    "example": "The view inspired an ineffable awe.",
+    "pos": "adj"
   },
   {
     "word": "ephemeral",
     "definition": "Lasting for only a short time.",
-    "example": "Their joy was ephemeral."
+    "example": "Their joy was ephemeral.",
+    "pos": "adj"
   },
   {
     "word": "ethereal",
     "definition": "Delicate and otherworldly.",
-    "example": "The music had an ethereal quality."
+    "example": "The music had an ethereal quality.",
+    "pos": "adj"
   },
   {
     "word": "wistful",
     "definition": "Filled with quiet longing or regret.",
-    "example": "She gave a wistful smile."
+    "example": "She gave a wistful smile.",
+    "pos": "adj"
   },
   {
     "word": "poignant",
     "definition": "Evoking deep emotion or sadness.",
-    "example": "The ending was especially poignant."
+    "example": "The ending was especially poignant.",
+    "pos": "adj"
   },
   {
     "word": "melancholy",
     "definition": "A thoughtful, gentle sadness.",
-    "example": "A melancholy mood settled over him."
+    "example": "A melancholy mood settled over him.",
+    "pos": "noun"
   },
   {
     "word": "reverie",
     "definition": "A state of dreamy contemplation.",
-    "example": "He drifted into reverie."
+    "example": "He drifted into reverie.",
+    "pos": "noun"
   },
   {
     "word": "solace",
     "definition": "Comfort in a time of distress.",
-    "example": "Music provided solace."
+    "example": "Music provided solace.",
+    "pos": "noun"
   },
   {
     "word": "pensive",
     "definition": "Deeply thoughtful and reflective.",
-    "example": "She sat in a pensive silence."
+    "example": "She sat in a pensive silence.",
+    "pos": "adj"
   },
   {
     "word": "laconic",
     "definition": "Using very few words.",
-    "example": "His laconic reply ended the debate."
+    "example": "His laconic reply ended the debate.",
+    "pos": "adj"
   },
   {
     "word": "sardonic",
     "definition": "Dryly mocking or cynical.",
-    "example": "She offered a sardonic grin."
+    "example": "She offered a sardonic grin.",
+    "pos": "adj"
   },
   {
     "word": "austere",
     "definition": "Plain, simple, and without excess.",
-    "example": "The room was austere but elegant."
+    "example": "The room was austere but elegant.",
+    "pos": "adj"
   },
   {
     "word": "serendipity",
     "definition": "Finding something good by chance.",
-    "example": "Their meeting was pure serendipity."
+    "example": "Their meeting was pure serendipity.",
+    "pos": "noun"
   },
   {
     "word": "sonder",
     "definition": "Realizing others have lives as complex as your own.",
-    "example": "Watching commuters sparked sonder."
+    "example": "Watching commuters sparked sonder.",
+    "pos": "concept"
   },
   {
     "word": "paradox",
     "definition": "A statement that seems contradictory but may be true.",
-    "example": "The situation was a paradox."
+    "example": "The situation was a paradox.",
+    "pos": "noun"
   },
   {
     "word": "dichotomy",
     "definition": "A division into two contrasting parts.",
-    "example": "The debate presented a false dichotomy."
+    "example": "The debate presented a false dichotomy.",
+    "pos": "noun"
   },
   {
     "word": "heuristic",
     "definition": "A practical shortcut for solving problems.",
-    "example": "Experience became his heuristic."
+    "example": "Experience became his heuristic.",
+    "pos": "noun"
   },
   {
     "word": "ontology",
     "definition": "The study of the nature of existence.",
-    "example": "The philosopher wrote about ontology."
+    "example": "The philosopher wrote about ontology.",
+    "pos": "noun"
   },
   {
     "word": "teleology",
     "definition": "Explaining things by their purpose or end goal.",
-    "example": "The essay explored teleology."
+    "example": "The essay explored teleology.",
+    "pos": "noun"
   },
   {
     "word": "zeitgeist",
     "definition": "The defining spirit of a particular era.",
-    "example": "The film captured the zeitgeist."
+    "example": "The film captured the zeitgeist.",
+    "pos": "noun"
   },
   {
     "word": "iconoclast",
     "definition": "Someone who challenges established beliefs.",
-    "example": "She became known as an iconoclast."
+    "example": "She became known as an iconoclast.",
+    "pos": "noun"
   },
   {
     "word": "hegemony",
     "definition": "Dominance or leadership over others.",
-    "example": "The empire sought regional hegemony."
+    "example": "The empire sought regional hegemony.",
+    "pos": "noun"
   },
   {
     "word": "apocryphal",
     "definition": "Widely told but of doubtful truth.",
-    "example": "The story may be apocryphal."
+    "example": "The story may be apocryphal.",
+    "pos": "adj"
   },
   {
     "word": "equanimity",
     "definition": "Calmness under pressure.",
-    "example": "He handled criticism with equanimity."
+    "example": "He handled criticism with equanimity.",
+    "pos": "noun"
   },
   {
     "word": "magnanimous",
     "definition": "Generous and forgiving in victory.",
-    "example": "She was magnanimous after winning."
+    "example": "She was magnanimous after winning.",
+    "pos": "adj"
   },
   {
     "word": "catharsis",
     "definition": "Emotional release and relief.",
-    "example": "Writing provided catharsis."
+    "example": "Writing provided catharsis.",
+    "pos": "noun"
   },
   {
     "word": "cogent",
     "definition": "Clear, logical, and convincing.",
-    "example": "He made a cogent argument."
+    "example": "He made a cogent argument.",
+    "pos": "adj"
   },
   {
     "word": "circumspect",
     "definition": "Careful and thoughtful before acting.",
-    "example": "She remained circumspect."
+    "example": "She remained circumspect.",
+    "pos": "adj"
   },
   {
     "word": "corroborate",
     "definition": "To confirm with supporting evidence.",
-    "example": "The records corroborate his claim."
+    "example": "The records corroborate his claim.",
+    "pos": "verb"
   },
   {
     "word": "insular",
     "definition": "Narrow-minded or isolated from others.",
-    "example": "The group became insular."
+    "example": "The group became insular.",
+    "pos": "adj"
   },
   {
     "word": "myopic",
     "definition": "Lacking long-term perspective.",
-    "example": "The policy was criticized as myopic."
+    "example": "The policy was criticized as myopic.",
+    "pos": "adj"
   },
   {
     "word": "salient",
     "definition": "Most noticeable or important.",
-    "example": "She highlighted the salient points."
+    "example": "She highlighted the salient points.",
+    "pos": "adj"
   },
   {
     "word": "tenacious",
     "definition": "Persistent and unwilling to give up.",
-    "example": "His tenacious effort paid off."
+    "example": "His tenacious effort paid off.",
+    "pos": "adj"
   },
   {
     "word": "petrichor",
     "definition": "The scent of rain on dry earth.",
-    "example": "Petrichor filled the air after the storm."
+    "example": "Petrichor filled the air after the storm.",
+    "pos": "noun"
   },
   {
     "word": "susurrus",
     "definition": "A soft whispering or rustling sound.",
-    "example": "A susurrus came from the trees."
+    "example": "A susurrus came from the trees.",
+    "pos": "noun"
   },
   {
     "word": "eudaimonia",
     "language": "Ancient Greek",
     "definition": "A life of flourishing and fulfillment.",
-    "example": "She sought eudaimonia rather than success."
+    "example": "She sought eudaimonia rather than success.",
+    "pos": "concept"
   },
   {
     "word": "ataraxia",
     "language": "Ancient Greek",
     "definition": "A state of serene calm and tranquility.",
-    "example": "Meditation brought him closer to ataraxia."
+    "example": "Meditation brought him closer to ataraxia.",
+    "pos": "concept"
   }
 ]
