@@ -1,7 +1,8 @@
 """
-Applet: HTTP Test
+Applet: JSON Test
 """
 
+load("encoding/json.star", "json")
 load("http.star", "http")
 load("render.star", "render")
 
@@ -14,8 +15,10 @@ def main(config):
         ttl_seconds = 3600,
     )
 
+    words = json.decode(res.body())
+
     return render.Root(
         child = render.Text(
-            content = str(res.status_code),
+            content = str(len(words)),
         ),
     )
