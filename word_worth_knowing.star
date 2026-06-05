@@ -27,13 +27,11 @@ if res.status_code != 200:
 
 words = json.decode(res.body())
 
-# Temporary while we finish daily selection
 entry = words[3]
 
 word = entry["word"].upper()
 pos = entry["pos"]
 definition = entry["definition"]
-example = entry["example"]
 
 return render.Root(
     child = render.Marquee(
@@ -42,7 +40,7 @@ return render.Root(
                 render.Text(content = word),
                 render.Text(content = "(" + pos + ")"),
                 render.Text(content = definition),
-            ]
+            ],
         ),
         height = 25,
         offset_start = 23,
