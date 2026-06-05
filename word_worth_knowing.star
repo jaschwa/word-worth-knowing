@@ -1,7 +1,7 @@
 """
 Applet: Word Worth Knowing
 Summary: Displays a daily word worth knowing
-Description: Shows one curated word each day with definition and example.
+Description: Shows one curated word with its definition and example.
 Author: Jonathan Schwartz
 """
 
@@ -11,60 +11,52 @@ load("render.star", "render")
 
 URL = "https://raw.githubusercontent.com/jaschwa/word-worth-knowing/main/words.json"
 
-def main(config):
-    res = http.get(
-        url = URL,
-        ttl_seconds = 3600,
+def main():
+
+```
+res = http.get(
+    url = URL,
+    ttl_seconds = 3600,
+)
+
+if res.status_code != 200:
+    return render.Root(
+        child = render.Text(
+            content = "FETCH ERROR",
+        ),
     )
 
-    words = json.decode(res.body())
-    entry = words[3]
+words = json.decode(res.body())
 
-    word = entry["word"].upper()
-    pos = entry["pos"]
-    definition = entry["definition"]
-    example = entry["example"]
+# Temporary while we finish daily selection
+entry = words[3]
 
-    return render.Root(
-        show_full_animation = True,
+word = entry["word"].upper()
+pos = entry["pos"]
+definition = entry["definition"]
+example = entry["example"]
+
+return render.Root(
+    child = render.Marquee(
         child = render.Column(
             children = [
-                render.Marquee(
-                    child = render.Column(
-                        children = [
-                            render.WrappedText(
-                                content = word,
-                                color = "#fa0",
-                                font = "5x8",
-                            ),
-                            render.WrappedText(
-                                content = "(" + pos + ")",
-                                font = "5x8",
-                            ),
-                            render.WrappedText(
-                                content = definition,
-                                font = "5x8",
-                            ),
-                            render.WrappedText(
-                                content = example,
-                                font = "5x8",
-                            ),
-                        ],
-                    ),
-                    height = 25,
-                    offset_start = 23,
-                    scroll_direction = "vertical",
-                ),
-                render.Box(
-                    height = 1,
-                    color = "#00eeff",
+                render.Text(
+                    content = word,
                 ),
                 render.Text(
-                    content = "WORD",
-                    height = 6,
-                    font = "CG-pixel-3x5-mono",
+                    content = "(" + pos + ")",
+                ),
+                render.Text(
+                    content = definition,
+                ),
+                render.Text(
+                    content = example,
                 ),
             ],
         ),
-        delay = 140,
-    )
+        height = 25,
+        offset_start = 23,
+        scroll_direction = "vertical",
+    ),
+)
+```
