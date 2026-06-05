@@ -48,9 +48,6 @@ return render.Root(
                 render.Text(
                     content = definition,
                 ),
-                render.Text(
-                    content = example,
-                ),
             ],
         ),
         height = 25,
