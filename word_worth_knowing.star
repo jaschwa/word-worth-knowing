@@ -1,36 +1,80 @@
 """
 Applet: Word Worth Knowing
+Summary: Displays a daily word worth knowing
+Description: Shows one curated word each day with definition and example.
+Author: Jonathan Schwartz
 """
 
 load("encoding/json.star", "json")
 load("http.star", "http")
 load("render.star", "render")
-load("time.star", "time")
 
 URL = "https://raw.githubusercontent.com/jaschwa/word-worth-knowing/main/words.json"
 
 def main(config):
 
-    res = http.get(
-        url = URL,
-        ttl_seconds = 3600,
-    )
+```
+res = http.get(
+    url = URL,
+    ttl_seconds = 3600,
+)
 
-    words = json.decode(res.body())
-
-    now = time.now()
-
-    index = now.day - 1
-
-    if index >= len(words):
-        index = index % len(words)
-
-    entry = words[index]
-
-    text = entry["word"] + " (" + entry["pos"] + ")"
-
+if res.status_code != 200:
     return render.Root(
-        child = render.Text(
-            content = text,
-        ),
+        child = render.Text("Fetch Error"),
     )
+
+words = json.decode(res.body())
+
+# Temporary until we finish date selection
+entry = words[3]
+
+word = entry["word"].upper()
+pos = entry["pos"]
+definition = entry["definition"]
+example = entry["example"]
+
+return render.Root(
+    show_full_animation = True,
+    child = render.Column(
+        children = [
+            render.Marquee(
+                child = render.Column(
+                    children = [
+                        render.WrappedText(
+                            content = word,
+                            color = "#fa0",
+                            font = "5x8",
+                        ),
+                        render.WrappedText(
+                            content = "(" + pos + ")",
+                            font = "5x8",
+                        ),
+                        render.WrappedText(
+                            content = definition,
+                            font = "5x8",
+                        ),
+                        render.WrappedText(
+                            content = example,
+                            font = "5x8",
+                        ),
+                    ],
+                ),
+                height = 25,
+                offset_start = 23,
+                scroll_direction = "vertical",
+            ),
+            render.Box(
+                height = 1,
+                color = "#00eeff",
+            ),
+            render.Text(
+                content = "WORD WORTH KNOWING",
+                height = 6,
+                font = "CG-pixel-3x5-mono",
+            ),
+        ],
+    ),
+    delay = 140,
+)
+```
