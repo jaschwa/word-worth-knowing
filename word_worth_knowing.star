@@ -53,6 +53,7 @@ def main(config):
                             ),
                             render.WrappedText(
                                 content = example,
+                                color = "#f00",
                                 font = "5x8",
                             ),
                         ],

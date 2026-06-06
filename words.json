@@ -304,5 +304,2805 @@
     "definition": "A state of serene calm and tranquility.",
     "example": "Meditation brought him closer to ataraxia.",
     "pos": "concept"
+  },
+  {
+    "word": "mamihlapinatapai",
+    "language": "Yaghan",
+    "definition": "A look shared between two people, each wishing the other would initiate something.",
+    "example": "They sat in mamihlapinatapai across the table.",
+    "pos": "concept"
+  },
+  {
+    "word": "mono no aware",
+    "language": "Japanese",
+    "definition": "The bittersweet awareness of impermanence.",
+    "example": "Watching the cherry blossoms fall, she felt mono no aware.",
+    "pos": "concept"
+  },
+  {
+    "word": "wabi-sabi",
+    "language": "Japanese",
+    "definition": "Finding beauty in imperfection and transience.",
+    "example": "The cracked teacup had a wabi-sabi quality.",
+    "pos": "concept"
+  },
+  {
+    "word": "shouganai",
+    "language": "Japanese",
+    "definition": "Acceptance of the things one cannot change.",
+    "example": "He shrugged with shouganai and moved on.",
+    "pos": "concept"
+  },
+  {
+    "word": "ikigai",
+    "language": "Japanese",
+    "definition": "A reason for being; the thing that makes life worth living.",
+    "example": "Teaching children was her ikigai.",
+    "pos": "concept"
+  },
+  {
+    "word": "ma",
+    "language": "Japanese",
+    "definition": "The meaningful pause or negative space between things.",
+    "example": "The ma in the music gave it power.",
+    "pos": "concept"
+  },
+  {
+    "word": "yugen",
+    "language": "Japanese",
+    "definition": "A profound awareness of the universe that triggers deep emotions.",
+    "example": "The fog over the valley stirred a sense of yugen.",
+    "pos": "concept"
+  },
+  {
+    "word": "amae",
+    "language": "Japanese",
+    "definition": "The comfort of depending on another's benevolence.",
+    "example": "The child's trust was pure amae.",
+    "pos": "concept"
+  },
+  {
+    "word": "natsukashii",
+    "language": "Japanese",
+    "definition": "A nostalgic longing triggered by something from the past.",
+    "example": "The old song made her feel natsukashii.",
+    "pos": "concept"
+  },
+  {
+    "word": "torschlusspanik",
+    "language": "German",
+    "definition": "The fear that time is running out to act or achieve.",
+    "example": "At thirty-five, he felt torschlusspanik.",
+    "pos": "concept"
+  },
+  {
+    "word": "schadenfreude",
+    "language": "German",
+    "definition": "Pleasure derived from another's misfortune.",
+    "example": "She felt a twinge of schadenfreude.",
+    "pos": "concept"
+  },
+  {
+    "word": "fingerspitzengefuhl",
+    "language": "German",
+    "definition": "Sensitivity and tactful intuition in difficult situations.",
+    "example": "The negotiator's fingerspitzengefuhl resolved the dispute.",
+    "pos": "concept"
+  },
+  {
+    "word": "drachenfutter",
+    "language": "German",
+    "definition": "A peace offering given to a partner after bad behavior.",
+    "example": "He came home with flowers as drachenfutter.",
+    "pos": "concept"
+  },
+  {
+    "word": "kummerspeck",
+    "language": "German",
+    "definition": "Weight gained from emotional overeating.",
+    "example": "The breakup led to kummerspeck.",
+    "pos": "concept"
+  },
+  {
+    "word": "waldeinsamkeit",
+    "language": "German",
+    "definition": "The feeling of solitude and connection with nature in the woods.",
+    "example": "He sought waldeinsamkeit on long hikes.",
+    "pos": "concept"
+  },
+  {
+    "word": "zweisamkeit",
+    "language": "German",
+    "definition": "The feeling of togetherness and intimacy between two people.",
+    "example": "The quiet evening was full of zweisamkeit.",
+    "pos": "concept"
+  },
+  {
+    "word": "sturmfrei",
+    "language": "German",
+    "definition": "The freedom of having a space entirely to yourself.",
+    "example": "With her roommate gone, she had sturmfrei.",
+    "pos": "concept"
+  },
+  {
+    "word": "jayus",
+    "language": "Indonesian",
+    "definition": "A joke so unfunny it becomes funny.",
+    "example": "His terrible pun was a total jayus.",
+    "pos": "concept"
+  },
+  {
+    "word": "tartle",
+    "language": "Scottish",
+    "definition": "The hesitation of forgetting someone's name mid-introduction.",
+    "example": "He tartled badly at the reunion.",
+    "pos": "concept"
+  },
+  {
+    "word": "forelsket",
+    "language": "Norwegian",
+    "definition": "The euphoria of falling in love.",
+    "example": "She was lost in forelsket.",
+    "pos": "concept"
+  },
+  {
+    "word": "utepils",
+    "language": "Norwegian",
+    "definition": "A beer enjoyed outside on a sunny day.",
+    "example": "The first warm day called for utepils.",
+    "pos": "concept"
+  },
+  {
+    "word": "friluftsliv",
+    "language": "Norwegian",
+    "definition": "The philosophy of spending time in open nature for wellbeing.",
+    "example": "Friluftsliv kept her grounded through winter.",
+    "pos": "concept"
+  },
+  {
+    "word": "sobremesa",
+    "language": "Spanish",
+    "definition": "The time spent lingering at the table after a meal.",
+    "example": "The sobremesa lasted two hours.",
+    "pos": "concept"
+  },
+  {
+    "word": "madrugada",
+    "language": "Spanish",
+    "definition": "The small hours between midnight and dawn.",
+    "example": "They talked into the madrugada.",
+    "pos": "concept"
+  },
+  {
+    "word": "duende",
+    "language": "Spanish",
+    "definition": "The mysterious power of art to deeply move the soul.",
+    "example": "The flamenco dancer had true duende.",
+    "pos": "concept"
+  },
+  {
+    "word": "estrenar",
+    "language": "Spanish",
+    "definition": "The pleasure of using or wearing something for the first time.",
+    "example": "She couldn't wait to estrenar her new shoes.",
+    "pos": "concept"
+  },
+  {
+    "word": "merak",
+    "language": "Turkish",
+    "definition": "A curious, passionate pursuit of something for its own sake.",
+    "example": "His merak for astronomy kept him up at night.",
+    "pos": "concept"
+  },
+  {
+    "word": "huzun",
+    "language": "Turkish",
+    "definition": "A collective spiritual melancholy tied to a place or people.",
+    "example": "Istanbul's streets carry a certain huzun.",
+    "pos": "concept"
+  },
+  {
+    "word": "meraki",
+    "language": "Greek",
+    "definition": "Doing something with soul, creativity, and love.",
+    "example": "She cooked every meal with meraki.",
+    "pos": "concept"
+  },
+  {
+    "word": "filotimo",
+    "language": "Greek",
+    "definition": "A deep sense of honor, pride, and responsibility to others.",
+    "example": "His generosity was an expression of filotimo.",
+    "pos": "concept"
+  },
+  {
+    "word": "nefelibata",
+    "language": "Portuguese",
+    "definition": "A cloud-walker; one who lives in dreams and fantasy.",
+    "example": "The poet was a true nefelibata.",
+    "pos": "concept"
+  },
+  {
+    "word": "desenrascanco",
+    "language": "Portuguese",
+    "definition": "The ability to improvise a solution from whatever is at hand.",
+    "example": "The repair was pure desenrascanco.",
+    "pos": "concept"
+  },
+  {
+    "word": "litost",
+    "language": "Czech",
+    "definition": "A state of torment caused by a sudden sight of one's own misery.",
+    "example": "The rejection hit him with litost.",
+    "pos": "concept"
+  },
+  {
+    "word": "iktsuarpok",
+    "language": "Inuit",
+    "definition": "The urge to keep checking outside for someone you're expecting.",
+    "example": "She was full of iktsuarpok waiting for the letter.",
+    "pos": "concept"
+  },
+  {
+    "word": "kilig",
+    "language": "Filipino",
+    "definition": "The giddy, heart-racing feeling of romantic excitement.",
+    "example": "She was full of kilig after the date.",
+    "pos": "concept"
+  },
+  {
+    "word": "gigil",
+    "language": "Filipino",
+    "definition": "The overwhelming urge to squeeze something unbearably cute.",
+    "example": "The puppy inspired intense gigil.",
+    "pos": "concept"
+  },
+  {
+    "word": "tarab",
+    "language": "Arabic",
+    "definition": "Musically induced ecstasy or enchantment.",
+    "example": "The oud performance sent him into tarab.",
+    "pos": "concept"
+  },
+  {
+    "word": "tsundoku",
+    "language": "Japanese",
+    "definition": "Buying books and letting them pile up unread.",
+    "example": "Her nightstand was a monument to tsundoku.",
+    "pos": "concept"
+  },
+  {
+    "word": "koi no yokan",
+    "language": "Japanese",
+    "definition": "The sense upon meeting someone that you will fall in love.",
+    "example": "He felt koi no yokan immediately.",
+    "pos": "concept"
+  },
+  {
+    "word": "age-otori",
+    "language": "Japanese",
+    "definition": "Looking worse after a haircut.",
+    "example": "The trim left her with age-otori.",
+    "pos": "concept"
+  },
+  {
+    "word": "boketto",
+    "language": "Japanese",
+    "definition": "Gazing vacantly into the distance without thinking.",
+    "example": "She sat in boketto by the window.",
+    "pos": "concept"
+  },
+  {
+    "word": "nakama",
+    "language": "Japanese",
+    "definition": "Friends who feel like chosen family.",
+    "example": "His nakama showed up without being asked.",
+    "pos": "concept"
+  },
+  {
+    "word": "nemawashi",
+    "language": "Japanese",
+    "definition": "Laying groundwork by quietly building consensus.",
+    "example": "The nemawashi made the vote unanimous.",
+    "pos": "concept"
+  },
+  {
+    "word": "tatemae",
+    "language": "Japanese",
+    "definition": "The public face one presents, distinct from one's true feelings.",
+    "example": "His tatemae never slipped at work.",
+    "pos": "concept"
+  },
+  {
+    "word": "honne",
+    "language": "Japanese",
+    "definition": "One's true desires and feelings, kept private.",
+    "example": "Only at home did his honne show.",
+    "pos": "concept"
+  },
+  {
+    "word": "shibui",
+    "language": "Japanese",
+    "definition": "Subtle, understated beauty that reveals itself slowly.",
+    "example": "The design was shibui, not immediately striking.",
+    "pos": "concept"
+  },
+  {
+    "word": "kodawari",
+    "language": "Japanese",
+    "definition": "An uncompromising devotion to perfecting a craft.",
+    "example": "His ramen was made with kodawari.",
+    "pos": "concept"
+  },
+  {
+    "word": "shokunin",
+    "language": "Japanese",
+    "definition": "A craftsperson with total dedication to their work.",
+    "example": "The knife-maker was a true shokunin.",
+    "pos": "concept"
+  },
+  {
+    "word": "en",
+    "language": "Japanese",
+    "definition": "A fateful, karmic connection between people.",
+    "example": "Their friendship felt like en.",
+    "pos": "concept"
+  },
+  {
+    "word": "mushin",
+    "language": "Japanese",
+    "definition": "A state of mental clarity and emptiness, free from distractions.",
+    "example": "The archer entered mushin before the shot.",
+    "pos": "concept"
+  },
+  {
+    "word": "mangata",
+    "language": "Swedish",
+    "definition": "The glimmering road-like reflection of moonlight on water.",
+    "example": "They watched the mangata from the shore.",
+    "pos": "concept"
+  },
+  {
+    "word": "resfeber",
+    "language": "Swedish",
+    "definition": "The restless anticipation felt before a journey.",
+    "example": "She couldn't sleep from resfeber the night before.",
+    "pos": "concept"
+  },
+  {
+    "word": "smultronstalle",
+    "language": "Swedish",
+    "definition": "A special, personal place one returns to for solace.",
+    "example": "The lake was her smultronstalle.",
+    "pos": "concept"
+  },
+  {
+    "word": "fika",
+    "language": "Swedish",
+    "definition": "A social coffee break, more ritual than refreshment.",
+    "example": "The team gathered for fika at three.",
+    "pos": "concept"
+  },
+  {
+    "word": "gokotta",
+    "language": "Swedish",
+    "definition": "Waking early to go out and hear the first birds of morning.",
+    "example": "He practiced gokotta every May.",
+    "pos": "concept"
+  },
+  {
+    "word": "lykke",
+    "language": "Danish",
+    "definition": "A deep sense of happiness and well-being.",
+    "example": "She found lykke in small, quiet things.",
+    "pos": "concept"
+  },
+  {
+    "word": "arbejdsglaede",
+    "language": "Danish",
+    "definition": "Happiness and satisfaction derived from one's work.",
+    "example": "She had real arbejdsglaede as a teacher.",
+    "pos": "concept"
+  },
+  {
+    "word": "sisu",
+    "language": "Finnish",
+    "definition": "Extraordinary determination and resilience in the face of adversity.",
+    "example": "She climbed the mountain on pure sisu.",
+    "pos": "concept"
+  },
+  {
+    "word": "talkoot",
+    "language": "Finnish",
+    "definition": "Coming together as a community to accomplish a shared task.",
+    "example": "The harvest was done through talkoot.",
+    "pos": "concept"
+  },
+  {
+    "word": "trouvaille",
+    "language": "French",
+    "definition": "A lucky find; something wonderful discovered by chance.",
+    "example": "The bookshop was a trouvaille.",
+    "pos": "concept"
+  },
+  {
+    "word": "depaysement",
+    "language": "French",
+    "definition": "The disorientation of being in a foreign place.",
+    "example": "She relished the depaysement of the new city.",
+    "pos": "concept"
+  },
+  {
+    "word": "flaneur",
+    "language": "French",
+    "definition": "One who wanders through the city as a detached observer.",
+    "example": "He spent weekends as a flaneur.",
+    "pos": "concept"
+  },
+  {
+    "word": "esprit de l'escalier",
+    "language": "French",
+    "definition": "Thinking of the perfect comeback only after the moment has passed.",
+    "example": "He went home stewing in esprit de l'escalier.",
+    "pos": "concept"
+  },
+  {
+    "word": "joie de vivre",
+    "language": "French",
+    "definition": "An exuberant enjoyment of life.",
+    "example": "Her joie de vivre was infectious.",
+    "pos": "concept"
+  },
+  {
+    "word": "cafard",
+    "language": "French",
+    "definition": "A feeling of profound depression and listlessness.",
+    "example": "After the trip ended, cafard set in.",
+    "pos": "concept"
+  },
+  {
+    "word": "frisson",
+    "language": "French",
+    "definition": "A sudden shiver of excitement or pleasure.",
+    "example": "The opening notes sent a frisson through the hall.",
+    "pos": "concept"
+  },
+  {
+    "word": "ennui",
+    "language": "French",
+    "definition": "A feeling of listlessness arising from boredom.",
+    "example": "Summer ennui set in by July.",
+    "pos": "concept"
+  },
+  {
+    "word": "sangfroid",
+    "language": "French",
+    "definition": "Composure or coolness shown in a difficult situation.",
+    "example": "He maintained his sangfroid throughout.",
+    "pos": "concept"
+  },
+  {
+    "word": "panache",
+    "language": "French",
+    "definition": "Flamboyant confidence of style.",
+    "example": "She wore the outfit with panache.",
+    "pos": "concept"
+  },
+  {
+    "word": "elan",
+    "language": "French",
+    "definition": "Energy and enthusiasm; distinctive style.",
+    "example": "He performed with great elan.",
+    "pos": "concept"
+  },
+  {
+    "word": "flanerie",
+    "language": "French",
+    "definition": "The act of wandering and observing city life.",
+    "example": "He spent the afternoon in flanerie.",
+    "pos": "concept"
+  },
+  {
+    "word": "terroir",
+    "language": "French",
+    "definition": "The environmental conditions that give a wine or food its character.",
+    "example": "The terroir of the valley was unique.",
+    "pos": "concept"
+  },
+  {
+    "word": "mise en scene",
+    "language": "French",
+    "definition": "The arrangement of all visual elements in a scene.",
+    "example": "The film's mise en scene was meticulous.",
+    "pos": "concept"
+  },
+  {
+    "word": "angst",
+    "language": "German",
+    "definition": "Anxiety and dread about the human condition.",
+    "example": "Existential angst haunted his poetry.",
+    "pos": "concept"
+  },
+  {
+    "word": "doppelganger",
+    "language": "German",
+    "definition": "A look-alike or double of a living person.",
+    "example": "She saw her doppelganger across the cafe.",
+    "pos": "concept"
+  },
+  {
+    "word": "leitmotif",
+    "language": "German",
+    "definition": "A recurring theme associated with a character or idea.",
+    "example": "The leitmotif returned in the final act.",
+    "pos": "concept"
+  },
+  {
+    "word": "wanderlust",
+    "language": "German",
+    "definition": "A strong desire to travel and explore the world.",
+    "example": "Wanderlust kept her moving.",
+    "pos": "concept"
+  },
+  {
+    "word": "weltanschauung",
+    "language": "German",
+    "definition": "A comprehensive worldview or philosophy of life.",
+    "example": "His weltanschauung was shaped by loss.",
+    "pos": "concept"
+  },
+  {
+    "word": "bildungsroman",
+    "language": "German",
+    "definition": "A novel dealing with a person's moral and psychological growth.",
+    "example": "Jane Eyre is a classic bildungsroman.",
+    "pos": "concept"
+  },
+  {
+    "word": "realpolitik",
+    "language": "German",
+    "definition": "Politics based on practical rather than moral considerations.",
+    "example": "The decision was pure realpolitik.",
+    "pos": "concept"
+  },
+  {
+    "word": "sturm und drang",
+    "language": "German",
+    "definition": "Storm and stress; a period of psychological intensity.",
+    "example": "Adolescence is full of sturm und drang.",
+    "pos": "concept"
+  },
+  {
+    "word": "kaizen",
+    "language": "Japanese",
+    "definition": "Continuous improvement as a philosophy of work.",
+    "example": "The team practiced kaizen daily.",
+    "pos": "concept"
+  },
+  {
+    "word": "kintsugi",
+    "language": "Japanese",
+    "definition": "The art of repairing broken pottery with gold, embracing flaws.",
+    "example": "Her scars were her kintsugi.",
+    "pos": "concept"
+  },
+  {
+    "word": "hanami",
+    "language": "Japanese",
+    "definition": "The custom of picnicking under flowering cherry trees.",
+    "example": "They gathered for hanami in April.",
+    "pos": "concept"
+  },
+  {
+    "word": "niksen",
+    "language": "Dutch",
+    "definition": "The practice of doing nothing, without guilt.",
+    "example": "She practiced niksen on Sunday mornings.",
+    "pos": "concept"
+  },
+  {
+    "word": "gezelligheid",
+    "language": "Dutch",
+    "definition": "A sense of coziness and togetherness.",
+    "example": "The cafe had gezelligheid.",
+    "pos": "concept"
+  },
+  {
+    "word": "pochemuchka",
+    "language": "Russian",
+    "definition": "A person who asks too many questions.",
+    "example": "The child was a pochemuchka.",
+    "pos": "concept"
+  },
+  {
+    "word": "razliubit",
+    "language": "Russian",
+    "definition": "To fall out of love; the feeling of no longer loving someone.",
+    "example": "He had razliubit without knowing it.",
+    "pos": "concept"
+  },
+  {
+    "word": "chutzpah",
+    "language": "Yiddish",
+    "definition": "Shameless audacity; supreme self-confidence.",
+    "example": "It took chutzpah to ask for more.",
+    "pos": "concept"
+  },
+  {
+    "word": "kairos",
+    "language": "Ancient Greek",
+    "definition": "The right or opportune moment; propitious time.",
+    "example": "He waited for the kairos to act.",
+    "pos": "concept"
+  },
+  {
+    "word": "hubris",
+    "language": "Ancient Greek",
+    "definition": "Excessive pride or self-confidence, especially leading to downfall.",
+    "example": "His hubris alienated his allies.",
+    "pos": "concept"
+  },
+  {
+    "word": "anagnorisis",
+    "language": "Ancient Greek",
+    "definition": "The critical moment of recognition or discovery in a narrative.",
+    "example": "The final scene was a perfect anagnorisis.",
+    "pos": "concept"
+  },
+  {
+    "word": "peripeteia",
+    "language": "Ancient Greek",
+    "definition": "A sudden reversal of fortune in a story.",
+    "example": "The plot's peripeteia shocked the audience.",
+    "pos": "concept"
+  },
+  {
+    "word": "hamartia",
+    "language": "Ancient Greek",
+    "definition": "A fatal flaw leading to a hero's downfall.",
+    "example": "Pride was his hamartia.",
+    "pos": "concept"
+  },
+  {
+    "word": "sophrosyne",
+    "language": "Ancient Greek",
+    "definition": "Soundness of mind; moderation and self-control.",
+    "example": "He tried to embody sophrosyne.",
+    "pos": "concept"
+  },
+  {
+    "word": "arete",
+    "language": "Ancient Greek",
+    "definition": "Excellence and virtue; the fulfillment of one's potential.",
+    "example": "The athlete embodied arete.",
+    "pos": "concept"
+  },
+  {
+    "word": "aporia",
+    "language": "Ancient Greek",
+    "definition": "A state of genuine uncertainty or perplexity.",
+    "example": "The question left him in aporia.",
+    "pos": "concept"
+  },
+  {
+    "word": "vellichor",
+    "definition": "The strange wistfulness of used bookstores.",
+    "example": "She lingered in vellichor among the shelves.",
+    "pos": "noun"
+  },
+  {
+    "word": "monachopsis",
+    "definition": "A subtle but persistent sense of being out of place.",
+    "example": "He felt monachopsis at every party.",
+    "pos": "noun"
+  },
+  {
+    "word": "ellipsism",
+    "definition": "Sadness that you will never know how the story ends.",
+    "example": "Climate news filled her with ellipsism.",
+    "pos": "noun"
+  },
+  {
+    "word": "kenopsia",
+    "definition": "The eerie quality of a place that is usually busy but now empty.",
+    "example": "The school at night had kenopsia.",
+    "pos": "noun"
+  },
+  {
+    "word": "rubatosis",
+    "definition": "The unsettling awareness of your own heartbeat.",
+    "example": "He lay awake in rubatosis.",
+    "pos": "noun"
+  },
+  {
+    "word": "onism",
+    "definition": "The frustration of being stuck in one body and one place.",
+    "example": "Travel brochures stirred his onism.",
+    "pos": "noun"
+  },
+  {
+    "word": "anecdoche",
+    "definition": "A conversation where everyone is talking but no one is listening.",
+    "example": "The party devolved into anecdoche.",
+    "pos": "noun"
+  },
+  {
+    "word": "jouska",
+    "definition": "A hypothetical conversation you compulsively play out in your head.",
+    "example": "She rehearsed her jouska on the walk over.",
+    "pos": "noun"
+  },
+  {
+    "word": "chrysalism",
+    "definition": "The amniotic tranquility of being safe indoors while it storms.",
+    "example": "Rain on the roof gave her chrysalism.",
+    "pos": "noun"
+  },
+  {
+    "word": "occhiolism",
+    "definition": "The awareness of how small a role you play in the world.",
+    "example": "The documentary stirred his occhiolism.",
+    "pos": "noun"
+  },
+  {
+    "word": "lachesism",
+    "definition": "The desire to be struck by disaster just to feel more alive.",
+    "example": "He recognized lachesism in his risky decisions.",
+    "pos": "noun"
+  },
+  {
+    "word": "exulansis",
+    "definition": "The tendency to give up sharing an experience because others cannot relate.",
+    "example": "Returning veterans often feel exulansis.",
+    "pos": "noun"
+  },
+  {
+    "word": "altschmerz",
+    "definition": "Weariness with the same old issues you have always had.",
+    "example": "Therapy helped her name the altschmerz.",
+    "pos": "noun"
+  },
+  {
+    "word": "adronitis",
+    "definition": "Frustration with how long it takes to get to know someone.",
+    "example": "He felt adronitis on the long first date.",
+    "pos": "noun"
+  },
+  {
+    "word": "nodus tollens",
+    "definition": "The realization that the plot of your life does not make sense.",
+    "example": "At forty, the nodus tollens was overwhelming.",
+    "pos": "noun"
+  },
+  {
+    "word": "liberosis",
+    "definition": "The desire to care less about things.",
+    "example": "She craved liberosis from her anxiety.",
+    "pos": "noun"
+  },
+  {
+    "word": "sempiternal",
+    "definition": "Lasting or enduring forever; eternal.",
+    "example": "The mountains felt sempiternal.",
+    "pos": "adj"
+  },
+  {
+    "word": "crepuscular",
+    "definition": "Of, relating to, or resembling twilight.",
+    "example": "The crepuscular light softened everything.",
+    "pos": "adj"
+  },
+  {
+    "word": "vespertine",
+    "definition": "Of, occurring, or active in the evening.",
+    "example": "She had a vespertine routine of reading.",
+    "pos": "adj"
+  },
+  {
+    "word": "matutinal",
+    "definition": "Of or occurring in the morning.",
+    "example": "He was at his best in matutinal hours.",
+    "pos": "adj"
+  },
+  {
+    "word": "noctilucent",
+    "definition": "Luminous at night; referring to high-altitude clouds that glow after sunset.",
+    "example": "Noctilucent clouds filled the northern sky.",
+    "pos": "adj"
+  },
+  {
+    "word": "gossamer",
+    "definition": "Extremely light, delicate, and insubstantial.",
+    "example": "A gossamer mist hung over the valley.",
+    "pos": "adj"
+  },
+  {
+    "word": "lambent",
+    "definition": "Softly bright or radiant; flickering gently.",
+    "example": "Lambent firelight filled the room.",
+    "pos": "adj"
+  },
+  {
+    "word": "tenebrous",
+    "definition": "Dark and shadowy; mysterious.",
+    "example": "The tenebrous forest was beautiful and frightening.",
+    "pos": "adj"
+  },
+  {
+    "word": "lucent",
+    "definition": "Glowing with light; translucent.",
+    "example": "The lucent moon lit their path.",
+    "pos": "adj"
+  },
+  {
+    "word": "pellucid",
+    "definition": "Translucently clear; easily understood.",
+    "example": "The pellucid stream revealed every stone.",
+    "pos": "adj"
+  },
+  {
+    "word": "diaphanous",
+    "definition": "Light, delicate, and translucent.",
+    "example": "She wore a diaphanous scarf.",
+    "pos": "adj"
+  },
+  {
+    "word": "phosphorescent",
+    "definition": "Emitting light without perceptible heat.",
+    "example": "The phosphorescent algae lit the waves blue.",
+    "pos": "adj"
+  },
+  {
+    "word": "coruscating",
+    "definition": "Flashing or sparkling; brilliantly clever.",
+    "example": "His coruscating wit silenced the room.",
+    "pos": "adj"
+  },
+  {
+    "word": "scintillating",
+    "definition": "Brilliantly and excitingly clever or skillful.",
+    "example": "It was a scintillating conversation.",
+    "pos": "adj"
+  },
+  {
+    "word": "refulgent",
+    "definition": "Shining brilliantly; radiant.",
+    "example": "A refulgent sunrise greeted them.",
+    "pos": "adj"
+  },
+  {
+    "word": "effulgent",
+    "definition": "Radiant; shining brightly.",
+    "example": "The effulgent noon made shadows sharp.",
+    "pos": "adj"
+  },
+  {
+    "word": "aureate",
+    "definition": "Made of or having the color of gold; ornately elegant.",
+    "example": "Aureate light flooded the cathedral.",
+    "pos": "adj"
+  },
+  {
+    "word": "caliginous",
+    "definition": "Misty and dark; obscure.",
+    "example": "A caliginous morning shrouded the city.",
+    "pos": "adj"
+  },
+  {
+    "word": "limpid",
+    "definition": "Clear and still; free of disturbance.",
+    "example": "The limpid pool reflected the sky.",
+    "pos": "adj"
+  },
+  {
+    "word": "mellifluous",
+    "definition": "Sweet or musical; pleasant to hear.",
+    "example": "Her mellifluous voice filled the hall.",
+    "pos": "adj"
+  },
+  {
+    "word": "dulcet",
+    "definition": "Soft and soothing; sweet-sounding.",
+    "example": "The dulcet tones of the cello calmed her.",
+    "pos": "adj"
+  },
+  {
+    "word": "sonorous",
+    "definition": "Having a full, deep, pleasantly loud sound.",
+    "example": "His sonorous voice commanded attention.",
+    "pos": "adj"
+  },
+  {
+    "word": "sibilant",
+    "definition": "Making or characterized by a hissing sound.",
+    "example": "The sibilant whisper carried across the room.",
+    "pos": "adj"
+  },
+  {
+    "word": "susurrous",
+    "definition": "Full of whispering or murmuring sounds.",
+    "example": "The susurrous river calmed her mind.",
+    "pos": "adj"
+  },
+  {
+    "word": "stridulent",
+    "definition": "Making a harsh, grating sound.",
+    "example": "Stridulent cicadas filled the air.",
+    "pos": "adj"
+  },
+  {
+    "word": "euphonious",
+    "definition": "Pleasing to the ear.",
+    "example": "The name was euphonious and memorable.",
+    "pos": "adj"
+  },
+  {
+    "word": "cacophonous",
+    "definition": "Involving a harsh mixture of sounds.",
+    "example": "The city woke to cacophonous traffic.",
+    "pos": "adj"
+  },
+  {
+    "word": "loquacious",
+    "definition": "Tending to talk a great deal.",
+    "example": "She was loquacious after her second coffee.",
+    "pos": "adj"
+  },
+  {
+    "word": "garrulous",
+    "definition": "Excessively talkative, especially about trivial things.",
+    "example": "The garrulous host barely let others speak.",
+    "pos": "adj"
+  },
+  {
+    "word": "taciturn",
+    "definition": "Reserved and uncommunicative in speech.",
+    "example": "He was taciturn around strangers.",
+    "pos": "adj"
+  },
+  {
+    "word": "voluble",
+    "definition": "Speaking or spoken incessantly and fluently.",
+    "example": "She was suddenly voluble on the subject.",
+    "pos": "adj"
+  },
+  {
+    "word": "reticent",
+    "definition": "Not revealing one's thoughts or feelings readily.",
+    "example": "He was reticent about his past.",
+    "pos": "adj"
+  },
+  {
+    "word": "diffident",
+    "definition": "Modest or shy due to a lack of self-confidence.",
+    "example": "She was diffident in meetings.",
+    "pos": "adj"
+  },
+  {
+    "word": "sanguine",
+    "definition": "Optimistic, especially in difficult situations.",
+    "example": "He remained sanguine despite the setbacks.",
+    "pos": "adj"
+  },
+  {
+    "word": "phlegmatic",
+    "definition": "Having an unemotional and calm disposition.",
+    "example": "His phlegmatic response surprised everyone.",
+    "pos": "adj"
+  },
+  {
+    "word": "querulous",
+    "definition": "Complaining in a petulant or whining manner.",
+    "example": "The querulous passenger annoyed everyone.",
+    "pos": "adj"
+  },
+  {
+    "word": "fractious",
+    "definition": "Easily irritated; unruly.",
+    "example": "The fractious committee reached no agreement.",
+    "pos": "adj"
+  },
+  {
+    "word": "intransigent",
+    "definition": "Refusing to change one's views or agree.",
+    "example": "Both sides remained intransigent.",
+    "pos": "adj"
+  },
+  {
+    "word": "obdurate",
+    "definition": "Stubbornly refusing to change position or feel remorse.",
+    "example": "He was obdurate in the face of evidence.",
+    "pos": "adj"
+  },
+  {
+    "word": "recalcitrant",
+    "definition": "Having an obstinately uncooperative attitude.",
+    "example": "The recalcitrant student refused every task.",
+    "pos": "adj"
+  },
+  {
+    "word": "pertinacious",
+    "definition": "Holding firmly to an opinion or purpose; persistent.",
+    "example": "She was pertinacious in her research.",
+    "pos": "adj"
+  },
+  {
+    "word": "assiduous",
+    "definition": "Showing great care and perseverance.",
+    "example": "His assiduous attention to detail paid off.",
+    "pos": "adj"
+  },
+  {
+    "word": "indefatigable",
+    "definition": "Persisting tirelessly.",
+    "example": "She was an indefatigable campaigner.",
+    "pos": "adj"
+  },
+  {
+    "word": "sedulous",
+    "definition": "Diligent and attentive in care or effort.",
+    "example": "He was sedulous in his practice.",
+    "pos": "adj"
+  },
+  {
+    "word": "fervent",
+    "definition": "Having or displaying a passionate intensity.",
+    "example": "She was a fervent believer.",
+    "pos": "adj"
+  },
+  {
+    "word": "ardent",
+    "definition": "Enthusiastic or passionate.",
+    "example": "He was an ardent admirer of her work.",
+    "pos": "adj"
+  },
+  {
+    "word": "vehement",
+    "definition": "Showing strong feeling; forceful and passionate.",
+    "example": "He made a vehement objection.",
+    "pos": "adj"
+  },
+  {
+    "word": "impetuous",
+    "definition": "Acting or done quickly without thought.",
+    "example": "Her impetuous decision cost her the job.",
+    "pos": "adj"
+  },
+  {
+    "word": "indolent",
+    "definition": "Wanting to avoid activity; lazy.",
+    "example": "The indolent afternoon passed slowly.",
+    "pos": "adj"
+  },
+  {
+    "word": "torpid",
+    "definition": "Mentally or physically inactive; lethargic.",
+    "example": "The heat made her torpid.",
+    "pos": "adj"
+  },
+  {
+    "word": "somnolent",
+    "definition": "Sleepy; tending to cause sleep.",
+    "example": "The somnolent drone of the lecture.",
+    "pos": "adj"
+  },
+  {
+    "word": "languid",
+    "definition": "Displaying a disinclination for physical effort.",
+    "example": "She stretched with languid grace.",
+    "pos": "adj"
+  },
+  {
+    "word": "listless",
+    "definition": "Lacking energy or enthusiasm.",
+    "example": "He spent a listless afternoon on the couch.",
+    "pos": "adj"
+  },
+  {
+    "word": "truculent",
+    "definition": "Eager to argue or fight; aggressively defiant.",
+    "example": "The truculent witness challenged every question.",
+    "pos": "adj"
+  },
+  {
+    "word": "pugnacious",
+    "definition": "Eager or quick to argue or fight.",
+    "example": "His pugnacious manner alienated the board.",
+    "pos": "adj"
+  },
+  {
+    "word": "bellicose",
+    "definition": "Demonstrating aggression; warlike.",
+    "example": "His bellicose tone alarmed his neighbors.",
+    "pos": "adj"
+  },
+  {
+    "word": "contentious",
+    "definition": "Causing or likely to cause argument.",
+    "example": "It was a contentious debate.",
+    "pos": "adj"
+  },
+  {
+    "word": "supercilious",
+    "definition": "Behaving as if one is superior to others.",
+    "example": "His supercilious manner irritated everyone.",
+    "pos": "adj"
+  },
+  {
+    "word": "haughty",
+    "definition": "Arrogantly superior.",
+    "example": "A haughty expression.",
+    "pos": "adj"
+  },
+  {
+    "word": "imperious",
+    "definition": "Assuming power without justification; arrogant.",
+    "example": "An imperious wave of the hand.",
+    "pos": "adj"
+  },
+  {
+    "word": "apophenia",
+    "definition": "The tendency to perceive meaningful connections between unrelated things.",
+    "example": "Conspiracy thinking often involves apophenia.",
+    "pos": "noun"
+  },
+  {
+    "word": "pareidolia",
+    "definition": "Seeing faces or familiar shapes in random patterns.",
+    "example": "She saw a face in the clouds: classic pareidolia.",
+    "pos": "noun"
+  },
+  {
+    "word": "gestalt",
+    "definition": "An organized whole perceived as more than the sum of its parts.",
+    "example": "The film worked as a gestalt.",
+    "pos": "noun"
+  },
+  {
+    "word": "solipsism",
+    "definition": "The view that only one's own mind is certain to exist.",
+    "example": "His worldview bordered on solipsism.",
+    "pos": "noun"
+  },
+  {
+    "word": "epistemology",
+    "definition": "The branch of philosophy concerned with the nature and limits of knowledge.",
+    "example": "The class debated epistemology all semester.",
+    "pos": "noun"
+  },
+  {
+    "word": "phenomenology",
+    "definition": "The study of conscious experience from the first-person perspective.",
+    "example": "Her thesis drew on phenomenology.",
+    "pos": "noun"
+  },
+  {
+    "word": "hermeneutics",
+    "definition": "The theory and methodology of interpretation, especially of texts.",
+    "example": "The seminar focused on hermeneutics.",
+    "pos": "noun"
+  },
+  {
+    "word": "dialectic",
+    "definition": "A method of logical argument through opposing ideas.",
+    "example": "The debate was a classic dialectic.",
+    "pos": "noun"
+  },
+  {
+    "word": "simulacrum",
+    "definition": "An image or representation of something; a copy without an original.",
+    "example": "The suburb was a simulacrum of community.",
+    "pos": "noun"
+  },
+  {
+    "word": "liminality",
+    "definition": "The quality of ambiguity in a transitional or threshold state.",
+    "example": "Adolescence is full of liminality.",
+    "pos": "noun"
+  },
+  {
+    "word": "tautology",
+    "definition": "Saying the same thing twice in different words.",
+    "example": "The definition was a tautology.",
+    "pos": "noun"
+  },
+  {
+    "word": "sophistry",
+    "definition": "The use of clever but false arguments.",
+    "example": "His defense relied on sophistry.",
+    "pos": "noun"
+  },
+  {
+    "word": "anachronism",
+    "definition": "Something placed in the wrong historical period.",
+    "example": "The film was full of anachronisms.",
+    "pos": "noun"
+  },
+  {
+    "word": "synesthesia",
+    "definition": "A condition where one sense involuntarily triggers another.",
+    "example": "She experienced synesthesia, seeing music as color.",
+    "pos": "noun"
+  },
+  {
+    "word": "sublimation",
+    "definition": "Channeling unacceptable impulses into socially acceptable activities.",
+    "example": "Art was her sublimation.",
+    "pos": "noun"
+  },
+  {
+    "word": "apotropaic",
+    "definition": "Intended to ward off evil or bad luck.",
+    "example": "The carved symbol was apotropaic.",
+    "pos": "adj"
+  },
+  {
+    "word": "inchoate",
+    "definition": "Just begun and not fully formed.",
+    "example": "The idea was still inchoate.",
+    "pos": "adj"
+  },
+  {
+    "word": "nascent",
+    "definition": "Just coming into existence and not yet fully developed.",
+    "example": "A nascent democracy.",
+    "pos": "adj"
+  },
+  {
+    "word": "vestigial",
+    "definition": "Forming a small, degenerate remnant of something.",
+    "example": "A vestigial instinct remained.",
+    "pos": "adj"
+  },
+  {
+    "word": "atavistic",
+    "definition": "Relating to a throwback to ancestral characteristics.",
+    "example": "He felt an atavistic thrill.",
+    "pos": "adj"
+  },
+  {
+    "word": "primordial",
+    "definition": "Existing from the beginning; ancient.",
+    "example": "A primordial fear of darkness.",
+    "pos": "adj"
+  },
+  {
+    "word": "immanent",
+    "definition": "Existing or operating within; inherent.",
+    "example": "The tension was immanent in every scene.",
+    "pos": "adj"
+  },
+  {
+    "word": "transcendent",
+    "definition": "Beyond normal human experience; surpassing the ordinary.",
+    "example": "A transcendent moment in sports.",
+    "pos": "adj"
+  },
+  {
+    "word": "heterodox",
+    "definition": "Not conforming with accepted standards or beliefs.",
+    "example": "His heterodox views surprised the panel.",
+    "pos": "adj"
+  },
+  {
+    "word": "dogmatic",
+    "definition": "Inclined to lay down principles as incontrovertibly true.",
+    "example": "He was dogmatic about his methods.",
+    "pos": "adj"
+  },
+  {
+    "word": "didactic",
+    "definition": "Intended to teach, particularly in a moralistic way.",
+    "example": "The novel was uncomfortably didactic.",
+    "pos": "adj"
+  },
+  {
+    "word": "esoteric",
+    "definition": "Understood by a small group with specialized knowledge.",
+    "example": "An esoteric field of study.",
+    "pos": "adj"
+  },
+  {
+    "word": "arcane",
+    "definition": "Understood by few; mysterious.",
+    "example": "Arcane knowledge of medieval law.",
+    "pos": "adj"
+  },
+  {
+    "word": "abstruse",
+    "definition": "Difficult to understand.",
+    "example": "The lecture grew abstruse.",
+    "pos": "adj"
+  },
+  {
+    "word": "recondite",
+    "definition": "Not known by many people; obscure.",
+    "example": "Recondite scholarship on Byzantine art.",
+    "pos": "adj"
+  },
+  {
+    "word": "cryptic",
+    "definition": "Mysterious and difficult to understand.",
+    "example": "A cryptic message arrived.",
+    "pos": "adj"
+  },
+  {
+    "word": "enigmatic",
+    "definition": "Difficult to understand or explain.",
+    "example": "An enigmatic smile.",
+    "pos": "adj"
+  },
+  {
+    "word": "inscrutable",
+    "definition": "Impossible to understand or interpret.",
+    "example": "His face was inscrutable.",
+    "pos": "adj"
+  },
+  {
+    "word": "erudite",
+    "definition": "Having or showing extensive knowledge.",
+    "example": "An erudite lecture.",
+    "pos": "adj"
+  },
+  {
+    "word": "pedantic",
+    "definition": "Excessively concerned with minor details.",
+    "example": "A pedantic interpretation.",
+    "pos": "adj"
+  },
+  {
+    "word": "perspicacious",
+    "definition": "Having a ready insight; shrewd.",
+    "example": "She was perspicacious in her observations.",
+    "pos": "adj"
+  },
+  {
+    "word": "sagacious",
+    "definition": "Having keen perception and sound judgment.",
+    "example": "The sagacious advisor foresaw the problem.",
+    "pos": "adj"
+  },
+  {
+    "word": "astute",
+    "definition": "Having an ability to notice and understand things clearly.",
+    "example": "An astute observation.",
+    "pos": "adj"
+  },
+  {
+    "word": "shrewd",
+    "definition": "Having sharp powers of judgment.",
+    "example": "A shrewd negotiator.",
+    "pos": "adj"
+  },
+  {
+    "word": "canny",
+    "definition": "Showing shrewdness and caution.",
+    "example": "He was canny about his investments.",
+    "pos": "adj"
+  },
+  {
+    "word": "wily",
+    "definition": "Skilled at gaining an advantage by clever means.",
+    "example": "She was a wily negotiator.",
+    "pos": "adj"
+  },
+  {
+    "word": "polemic",
+    "definition": "A strong verbal or written attack on someone.",
+    "example": "The essay was a brilliant polemic.",
+    "pos": "noun"
+  },
+  {
+    "word": "harangue",
+    "definition": "A long, aggressive speech.",
+    "example": "He delivered a harangue about punctuality.",
+    "pos": "noun"
+  },
+  {
+    "word": "diatribe",
+    "definition": "A forceful and bitter verbal attack.",
+    "example": "The review was a diatribe.",
+    "pos": "noun"
+  },
+  {
+    "word": "invective",
+    "definition": "Insulting, abusive, or violent language.",
+    "example": "The letter was full of invective.",
+    "pos": "noun"
+  },
+  {
+    "word": "calumny",
+    "definition": "A false and malicious statement about someone.",
+    "example": "He sued over the calumny.",
+    "pos": "noun"
+  },
+  {
+    "word": "obloquy",
+    "definition": "Strong public condemnation.",
+    "example": "The scandal brought obloquy on the firm.",
+    "pos": "noun"
+  },
+  {
+    "word": "opprobrium",
+    "definition": "Harsh criticism or censure.",
+    "example": "She faced opprobrium from her colleagues.",
+    "pos": "noun"
+  },
+  {
+    "word": "anathema",
+    "definition": "Something or someone greatly detested.",
+    "example": "Compromise was anathema to him.",
+    "pos": "noun"
+  },
+  {
+    "word": "synecdoche",
+    "definition": "A figure where a part represents the whole, or vice versa.",
+    "example": "All hands on deck uses synecdoche.",
+    "pos": "noun"
+  },
+  {
+    "word": "metonymy",
+    "definition": "A figure of speech substituting the name of one thing for another.",
+    "example": "The crown for royalty is metonymy.",
+    "pos": "noun"
+  },
+  {
+    "word": "litotes",
+    "definition": "Understatement used to emphasize by negation.",
+    "example": "Not bad as a compliment is litotes.",
+    "pos": "noun"
+  },
+  {
+    "word": "chiasmus",
+    "definition": "A rhetorical figure inverting the order of words in parallel clauses.",
+    "example": "Never let a fool kiss you uses chiasmus.",
+    "pos": "noun"
+  },
+  {
+    "word": "anaphora",
+    "definition": "Repetition of a word or phrase at the start of successive clauses.",
+    "example": "The speech used anaphora effectively.",
+    "pos": "noun"
+  },
+  {
+    "word": "apophasis",
+    "definition": "Raising something by claiming to ignore it.",
+    "example": "Not to mention his record is apophasis.",
+    "pos": "noun"
+  },
+  {
+    "word": "euphemism",
+    "definition": "A mild word substituted for one considered too harsh.",
+    "example": "Passed away is a euphemism.",
+    "pos": "noun"
+  },
+  {
+    "word": "dysphemism",
+    "definition": "A deliberately harsh expression used in place of a neutral one.",
+    "example": "Croak is a dysphemism for die.",
+    "pos": "noun"
+  },
+  {
+    "word": "aphorism",
+    "definition": "A pithy observation that contains a general truth.",
+    "example": "His speech was full of aphorisms.",
+    "pos": "noun"
+  },
+  {
+    "word": "axiom",
+    "definition": "A statement or proposition taken as self-evidently true.",
+    "example": "The argument rested on a shaky axiom.",
+    "pos": "noun"
+  },
+  {
+    "word": "syllogism",
+    "definition": "A form of reasoning in which a conclusion is drawn from two premises.",
+    "example": "He constructed a perfect syllogism.",
+    "pos": "noun"
+  },
+  {
+    "word": "pleonasm",
+    "definition": "Using more words than necessary to express meaning.",
+    "example": "Free gift is a pleonasm.",
+    "pos": "noun"
+  },
+  {
+    "word": "cerulean",
+    "definition": "A deep sky-blue color.",
+    "example": "The cerulean bay glittered.",
+    "pos": "adj"
+  },
+  {
+    "word": "viridian",
+    "definition": "A blue-green pigment or color.",
+    "example": "The forest had a deep viridian hue.",
+    "pos": "adj"
+  },
+  {
+    "word": "vermillion",
+    "definition": "A brilliant red or scarlet color.",
+    "example": "She signed the letter in vermillion.",
+    "pos": "adj"
+  },
+  {
+    "word": "amaranth",
+    "definition": "A deep purple-red color; an unfading flower.",
+    "example": "The amaranth petals shone in the light.",
+    "pos": "noun"
+  },
+  {
+    "word": "cinnabar",
+    "definition": "A vivid red mineral or pigment.",
+    "example": "Cinnabar decorated the ancient walls.",
+    "pos": "noun"
+  },
+  {
+    "word": "gamboge",
+    "definition": "A deep yellow pigment.",
+    "example": "The gamboge sunset was almost unreal.",
+    "pos": "noun"
+  },
+  {
+    "word": "sienna",
+    "definition": "An earthy brown-orange pigment.",
+    "example": "Autumn fields were painted in sienna.",
+    "pos": "noun"
+  },
+  {
+    "word": "ochre",
+    "definition": "An earthy yellow or brown pigment.",
+    "example": "Ochre walls gave the room warmth.",
+    "pos": "noun"
+  },
+  {
+    "word": "ecru",
+    "definition": "A beige-white color like unbleached linen.",
+    "example": "The curtains were ecru.",
+    "pos": "noun"
+  },
+  {
+    "word": "mauve",
+    "definition": "A pale purple color.",
+    "example": "The evening sky turned mauve.",
+    "pos": "noun"
+  },
+  {
+    "word": "sable",
+    "definition": "Black; the heraldic tincture of black.",
+    "example": "The crest bore a sable field.",
+    "pos": "adj"
+  },
+  {
+    "word": "argent",
+    "definition": "Silver; in heraldry, the tincture of silver or white.",
+    "example": "The crest bore an argent field.",
+    "pos": "adj"
+  },
+  {
+    "word": "azure",
+    "definition": "A bright blue color; the blue of the sky.",
+    "example": "Azure skies stretched overhead.",
+    "pos": "adj"
+  },
+  {
+    "word": "apricity",
+    "definition": "The warmth of sunshine in winter.",
+    "example": "She sat in the apricity on the cold bench.",
+    "pos": "noun"
+  },
+  {
+    "word": "sillage",
+    "definition": "The trail of scent left by perfume; a wake.",
+    "example": "She noticed the sillage after the stranger passed.",
+    "pos": "noun"
+  },
+  {
+    "word": "scintilla",
+    "definition": "A tiny trace or spark of something.",
+    "example": "There was not a scintilla of doubt.",
+    "pos": "noun"
+  },
+  {
+    "word": "penumbra",
+    "definition": "The partially shaded outer region of a shadow.",
+    "example": "He stood in the penumbra of the streetlight.",
+    "pos": "noun"
+  },
+  {
+    "word": "aureole",
+    "definition": "A circle of light around a radiant body; a halo.",
+    "example": "An aureole surrounded the mountain peak.",
+    "pos": "noun"
+  },
+  {
+    "word": "nadir",
+    "definition": "The lowest point; the point directly below the observer.",
+    "example": "The project hit its nadir in February.",
+    "pos": "noun"
+  },
+  {
+    "word": "zenith",
+    "definition": "The highest point reached; directly above the observer.",
+    "example": "At its zenith, the empire covered a continent.",
+    "pos": "noun"
+  },
+  {
+    "word": "apogee",
+    "definition": "The highest point in the development of something.",
+    "example": "The Renaissance was the apogee of the era.",
+    "pos": "noun"
+  },
+  {
+    "word": "palimpsest",
+    "definition": "Something altered but still bearing traces of an earlier form.",
+    "example": "The city was a palimpsest of centuries.",
+    "pos": "noun"
+  },
+  {
+    "word": "chiaroscuro",
+    "definition": "The contrast between light and dark in art or nature.",
+    "example": "Caravaggio mastered chiaroscuro.",
+    "pos": "noun"
+  },
+  {
+    "word": "umbra",
+    "definition": "The fully shaded region of a shadow.",
+    "example": "The eclipse cast a deep umbra.",
+    "pos": "noun"
+  },
+  {
+    "word": "evince",
+    "definition": "To reveal or make manifest.",
+    "example": "His tone evinced frustration.",
+    "pos": "verb"
+  },
+  {
+    "word": "limn",
+    "definition": "To depict or describe in painting or words.",
+    "example": "The poet limned the landscape beautifully.",
+    "pos": "verb"
+  },
+  {
+    "word": "burnish",
+    "definition": "To polish by rubbing; to enhance.",
+    "example": "He worked to burnish his reputation.",
+    "pos": "verb"
+  },
+  {
+    "word": "attenuate",
+    "definition": "To reduce the force or effect of something.",
+    "example": "The medication attenuated the symptoms.",
+    "pos": "verb"
+  },
+  {
+    "word": "ameliorate",
+    "definition": "To make something bad better.",
+    "example": "Rest ameliorated her symptoms.",
+    "pos": "verb"
+  },
+  {
+    "word": "exacerbate",
+    "definition": "To make a problem or bad situation worse.",
+    "example": "The delay exacerbated the frustration.",
+    "pos": "verb"
+  },
+  {
+    "word": "palliate",
+    "definition": "To lessen the severity without removing the cause.",
+    "example": "The drug palliated but did not cure.",
+    "pos": "verb"
+  },
+  {
+    "word": "obviate",
+    "definition": "To prevent or avoid by taking effective action.",
+    "example": "The backup plan obviated the problem.",
+    "pos": "verb"
+  },
+  {
+    "word": "forestall",
+    "definition": "To prevent by taking action in advance.",
+    "example": "She forestalled the objection.",
+    "pos": "verb"
+  },
+  {
+    "word": "abrogate",
+    "definition": "To repeal or abolish by authority.",
+    "example": "The law was abrogated.",
+    "pos": "verb"
+  },
+  {
+    "word": "promulgate",
+    "definition": "To make widely known; to formally put into effect.",
+    "example": "The decree was promulgated.",
+    "pos": "verb"
+  },
+  {
+    "word": "inculcate",
+    "definition": "To instill an idea by persistent repetition.",
+    "example": "She inculcated discipline in her students.",
+    "pos": "verb"
+  },
+  {
+    "word": "imbue",
+    "definition": "To inspire or permeate with a feeling or quality.",
+    "example": "The speech imbued them with hope.",
+    "pos": "verb"
+  },
+  {
+    "word": "pervade",
+    "definition": "To spread throughout and be perceived everywhere.",
+    "example": "Silence pervaded the room.",
+    "pos": "verb"
+  },
+  {
+    "word": "suffuse",
+    "definition": "To gradually spread through or over.",
+    "example": "Light suffused the room at dawn.",
+    "pos": "verb"
+  },
+  {
+    "word": "permeate",
+    "definition": "To spread throughout something.",
+    "example": "Hope permeated the community.",
+    "pos": "verb"
+  },
+  {
+    "word": "oscillate",
+    "definition": "To move back and forth; to vary between states.",
+    "example": "He oscillated between confidence and doubt.",
+    "pos": "verb"
+  },
+  {
+    "word": "vacillate",
+    "definition": "To waver between different opinions or actions.",
+    "example": "She vacillated for weeks before deciding.",
+    "pos": "verb"
+  },
+  {
+    "word": "equivocate",
+    "definition": "To use ambiguous language to conceal the truth.",
+    "example": "He equivocated when pressed for details.",
+    "pos": "verb"
+  },
+  {
+    "word": "prevaricate",
+    "definition": "To speak or act in an evasive way.",
+    "example": "Stop prevaricating and answer the question.",
+    "pos": "verb"
+  },
+  {
+    "word": "obfuscate",
+    "definition": "To make unclear or obscure.",
+    "example": "The report obfuscated more than it revealed.",
+    "pos": "verb"
+  },
+  {
+    "word": "elucidate",
+    "definition": "To make something clear; to explain.",
+    "example": "She elucidated her position carefully.",
+    "pos": "verb"
+  },
+  {
+    "word": "expound",
+    "definition": "To present and explain a theory in detail.",
+    "example": "He expounded his thesis for an hour.",
+    "pos": "verb"
+  },
+  {
+    "word": "explicate",
+    "definition": "To analyze and develop an idea in detail.",
+    "example": "The professor explicated the poem.",
+    "pos": "verb"
+  },
+  {
+    "word": "ruminate",
+    "definition": "To think deeply about something.",
+    "example": "She ruminated on the decision for weeks.",
+    "pos": "verb"
+  },
+  {
+    "word": "cogitate",
+    "definition": "To think deeply about something.",
+    "example": "He cogitated for days before answering.",
+    "pos": "verb"
+  },
+  {
+    "word": "fulminate",
+    "definition": "To express vehement protest or anger.",
+    "example": "He fulminated against the policy.",
+    "pos": "verb"
+  },
+  {
+    "word": "inveigh",
+    "definition": "To speak or write about something with great hostility.",
+    "example": "She inveighed against the decision.",
+    "pos": "verb"
+  },
+  {
+    "word": "excoriate",
+    "definition": "To censure or criticize severely.",
+    "example": "The review excoriated the performance.",
+    "pos": "verb"
+  },
+  {
+    "word": "lambaste",
+    "definition": "To criticize harshly.",
+    "example": "The press lambasted the decision.",
+    "pos": "verb"
+  },
+  {
+    "word": "upbraid",
+    "definition": "To find fault with or scold.",
+    "example": "She upbraided him for the error.",
+    "pos": "verb"
+  },
+  {
+    "word": "admonish",
+    "definition": "To warn or reprimand firmly.",
+    "example": "He admonished them to be careful.",
+    "pos": "verb"
+  },
+  {
+    "word": "exhort",
+    "definition": "To strongly encourage.",
+    "example": "He exhorted the team before the game.",
+    "pos": "verb"
+  },
+  {
+    "word": "implore",
+    "definition": "To beg someone earnestly.",
+    "example": "She implored him to reconsider.",
+    "pos": "verb"
+  },
+  {
+    "word": "beseech",
+    "definition": "To ask urgently and fervently.",
+    "example": "He beseeched her forgiveness.",
+    "pos": "verb"
+  },
+  {
+    "word": "elicit",
+    "definition": "To evoke or draw out a response.",
+    "example": "The question elicited silence.",
+    "pos": "verb"
+  },
+  {
+    "word": "engender",
+    "definition": "To cause or give rise to a feeling or situation.",
+    "example": "The speech engendered enthusiasm.",
+    "pos": "verb"
+  },
+  {
+    "word": "foment",
+    "definition": "To instigate or stir up trouble or rebellion.",
+    "example": "The pamphlet fomented unrest.",
+    "pos": "verb"
+  },
+  {
+    "word": "galvanize",
+    "definition": "To shock into taking action.",
+    "example": "The crisis galvanized the community.",
+    "pos": "verb"
+  },
+  {
+    "word": "transfix",
+    "definition": "To cause someone to be motionless with astonishment.",
+    "example": "The scene transfixed him.",
+    "pos": "verb"
+  },
+  {
+    "word": "mesmerize",
+    "definition": "To hold the attention completely.",
+    "example": "The speaker mesmerized the audience.",
+    "pos": "verb"
+  },
+  {
+    "word": "captivate",
+    "definition": "To attract and hold attention.",
+    "example": "Her story captivated everyone.",
+    "pos": "verb"
+  },
+  {
+    "word": "enrapture",
+    "definition": "To give intense pleasure or joy.",
+    "example": "The music enraptured them.",
+    "pos": "verb"
+  },
+  {
+    "word": "enthrall",
+    "definition": "To captivate completely.",
+    "example": "The novel enthralled her for days.",
+    "pos": "verb"
+  },
+  {
+    "word": "beguile",
+    "definition": "To charm or enchant, sometimes deceptively.",
+    "example": "He beguiled her with stories.",
+    "pos": "verb"
+  },
+  {
+    "word": "disabuse",
+    "definition": "To free from a false impression.",
+    "example": "She disabused him of the notion.",
+    "pos": "verb"
+  },
+  {
+    "word": "disconcert",
+    "definition": "To disturb the composure of.",
+    "example": "The silence disconcerted her.",
+    "pos": "verb"
+  },
+  {
+    "word": "perturb",
+    "definition": "To make anxious or unsettled.",
+    "example": "His absence perturbed her.",
+    "pos": "verb"
+  },
+  {
+    "word": "daunt",
+    "definition": "To intimidate or discourage.",
+    "example": "The challenge did not daunt her.",
+    "pos": "verb"
+  },
+  {
+    "word": "hearten",
+    "definition": "To make more confident or cheerful.",
+    "example": "The support heartened the team.",
+    "pos": "verb"
+  },
+  {
+    "word": "embolden",
+    "definition": "To make someone more confident.",
+    "example": "The victory emboldened the players.",
+    "pos": "verb"
+  },
+  {
+    "word": "bolster",
+    "definition": "To support or strengthen.",
+    "example": "The evidence bolstered her case.",
+    "pos": "verb"
+  },
+  {
+    "word": "cultivate",
+    "definition": "To prepare and develop; to foster growth.",
+    "example": "She cultivated patience over many years.",
+    "pos": "verb"
+  },
+  {
+    "word": "kindle",
+    "definition": "To light a fire; to arouse or inspire.",
+    "example": "The book kindled her curiosity.",
+    "pos": "verb"
+  },
+  {
+    "word": "presage",
+    "definition": "A sign or warning; to be a sign of something.",
+    "example": "The dark sky presaged a storm.",
+    "pos": "verb"
+  },
+  {
+    "word": "augur",
+    "definition": "To predict; to be a sign of.",
+    "example": "The early results augured well.",
+    "pos": "verb"
+  },
+  {
+    "word": "portend",
+    "definition": "To be a sign or warning of something coming.",
+    "example": "The silence portended disaster.",
+    "pos": "verb"
+  },
+  {
+    "word": "foreshadow",
+    "definition": "To be a warning or indication of something to come.",
+    "example": "The opening scene foreshadowed the ending.",
+    "pos": "verb"
+  },
+  {
+    "word": "adumbrate",
+    "definition": "To foreshadow; to give a sketchy outline of.",
+    "example": "The introduction adumbrated the theme.",
+    "pos": "verb"
+  },
+  {
+    "word": "bespeak",
+    "definition": "To be evidence of; to indicate.",
+    "example": "His bearing bespoke confidence.",
+    "pos": "verb"
+  },
+  {
+    "word": "efface",
+    "definition": "To erase or remove from memory; to make inconspicuous.",
+    "example": "She tried to efface the memory.",
+    "pos": "verb"
+  },
+  {
+    "word": "dissemble",
+    "definition": "To conceal one's true feelings.",
+    "example": "She dissembled to avoid conflict.",
+    "pos": "verb"
+  },
+  {
+    "word": "lassitude",
+    "definition": "Physical or mental weariness.",
+    "example": "A deep lassitude settled over him.",
+    "pos": "noun"
+  },
+  {
+    "word": "gravitas",
+    "definition": "Dignity and seriousness of manner.",
+    "example": "He spoke with quiet gravitas.",
+    "pos": "noun"
+  },
+  {
+    "word": "pathos",
+    "definition": "A quality that evokes pity or sadness.",
+    "example": "The scene was full of pathos.",
+    "pos": "noun"
+  },
+  {
+    "word": "bathos",
+    "definition": "An anticlimactic transition from the sublime to the ridiculous.",
+    "example": "The film's ending was pure bathos.",
+    "pos": "noun"
+  },
+  {
+    "word": "ethos",
+    "definition": "The characteristic spirit or values of a culture.",
+    "example": "The company's ethos shaped everything.",
+    "pos": "noun"
+  },
+  {
+    "word": "nemesis",
+    "definition": "The inescapable agent of one's downfall.",
+    "example": "Procrastination was his nemesis.",
+    "pos": "noun"
+  },
+  {
+    "word": "verisimilitude",
+    "definition": "The appearance of being true or real.",
+    "example": "The novel had great verisimilitude.",
+    "pos": "noun"
+  },
+  {
+    "word": "perspicacity",
+    "definition": "A ready insight; shrewdness.",
+    "example": "She showed perspicacity in the negotiation.",
+    "pos": "noun"
+  },
+  {
+    "word": "sagacity",
+    "definition": "Good judgment; wisdom.",
+    "example": "The elder spoke with great sagacity.",
+    "pos": "noun"
+  },
+  {
+    "word": "acuity",
+    "definition": "Sharpness or keenness of thought and vision.",
+    "example": "She had mental acuity well into old age.",
+    "pos": "noun"
+  },
+  {
+    "word": "acumen",
+    "definition": "The ability to make good judgments quickly.",
+    "example": "His business acumen was legendary.",
+    "pos": "noun"
+  },
+  {
+    "word": "aplomb",
+    "definition": "Self-confident assurance, especially in difficult situations.",
+    "example": "She handled the crisis with aplomb.",
+    "pos": "noun"
+  },
+  {
+    "word": "forbearance",
+    "definition": "Patient restraint; tolerance.",
+    "example": "He showed forbearance in the argument.",
+    "pos": "noun"
+  },
+  {
+    "word": "fortitude",
+    "definition": "Courage in facing pain or adversity.",
+    "example": "She endured with quiet fortitude.",
+    "pos": "noun"
+  },
+  {
+    "word": "tenacity",
+    "definition": "The quality of being very determined.",
+    "example": "His tenacity over years paid off.",
+    "pos": "noun"
+  },
+  {
+    "word": "mettle",
+    "definition": "A person's ability to cope with difficulty.",
+    "example": "The challenge tested her mettle.",
+    "pos": "noun"
+  },
+  {
+    "word": "audacity",
+    "definition": "Willingness to take bold risks.",
+    "example": "The audacity of the plan was staggering.",
+    "pos": "noun"
+  },
+  {
+    "word": "temerity",
+    "definition": "Excessive confidence or boldness.",
+    "example": "He had the temerity to argue back.",
+    "pos": "noun"
+  },
+  {
+    "word": "moxie",
+    "definition": "Force of character; determination; energy.",
+    "example": "She had the moxie to see it through.",
+    "pos": "noun"
+  },
+  {
+    "word": "gumption",
+    "definition": "Practical common sense and initiative.",
+    "example": "She had the gumption to ask.",
+    "pos": "noun"
+  },
+  {
+    "word": "wherewithal",
+    "definition": "The money, means, or ability needed for something.",
+    "example": "He lacked the wherewithal to continue.",
+    "pos": "noun"
+  },
+  {
+    "word": "nous",
+    "definition": "Practical intelligence or common sense.",
+    "example": "He had plenty of nous about the market.",
+    "pos": "noun"
+  },
+  {
+    "word": "verve",
+    "definition": "Enthusiasm and vitality.",
+    "example": "She approached it with verve.",
+    "pos": "noun"
+  },
+  {
+    "word": "vim",
+    "definition": "Lively energy; enthusiasm.",
+    "example": "He worked with vim and vigor.",
+    "pos": "noun"
+  },
+  {
+    "word": "gusto",
+    "definition": "Enjoyment or vigor in doing something.",
+    "example": "She tackled the meal with gusto.",
+    "pos": "noun"
+  },
+  {
+    "word": "alacrity",
+    "definition": "Brisk and cheerful readiness.",
+    "example": "She responded with alacrity.",
+    "pos": "noun"
+  },
+  {
+    "word": "celerity",
+    "definition": "Swiftness of movement.",
+    "example": "She acted with celerity.",
+    "pos": "noun"
+  },
+  {
+    "word": "watershed",
+    "definition": "An event marking a turning point.",
+    "example": "The ruling was a watershed.",
+    "pos": "noun"
+  },
+  {
+    "word": "apotheosis",
+    "definition": "The highest point of development; glorification.",
+    "example": "The film was the apotheosis of the genre.",
+    "pos": "noun"
+  },
+  {
+    "word": "denouement",
+    "definition": "The final resolution of a story or situation.",
+    "example": "The denouement satisfied no one.",
+    "pos": "noun"
+  },
+  {
+    "word": "coda",
+    "definition": "A concluding passage; an ending that adds something new.",
+    "example": "The epilogue served as a coda.",
+    "pos": "noun"
+  },
+  {
+    "word": "prelude",
+    "definition": "An action serving as an introduction to something.",
+    "example": "The meeting was a prelude to negotiations.",
+    "pos": "noun"
+  },
+  {
+    "word": "overture",
+    "definition": "An introduction; an opening of negotiations.",
+    "example": "He made an overture of friendship.",
+    "pos": "noun"
+  },
+  {
+    "word": "harbinger",
+    "definition": "A person or thing that signals what is to come.",
+    "example": "The crocuses were harbingers of spring.",
+    "pos": "noun"
+  },
+  {
+    "word": "portent",
+    "definition": "A sign or warning of a future event.",
+    "example": "The event seemed a portent.",
+    "pos": "noun"
+  },
+  {
+    "word": "premonition",
+    "definition": "A strong feeling that something is about to happen.",
+    "example": "A premonition kept her from the flight.",
+    "pos": "noun"
+  },
+  {
+    "word": "foreboding",
+    "definition": "A feeling that something bad will happen.",
+    "example": "A sense of foreboding settled over them.",
+    "pos": "noun"
+  },
+  {
+    "word": "trepidation",
+    "definition": "A feeling of fear about something about to happen.",
+    "example": "She entered the room with trepidation.",
+    "pos": "noun"
+  },
+  {
+    "word": "consternation",
+    "definition": "A feeling of anxiety or dismay.",
+    "example": "The news caused widespread consternation.",
+    "pos": "noun"
+  },
+  {
+    "word": "jubilation",
+    "definition": "A feeling of great happiness and triumph.",
+    "example": "Jubilation broke out in the streets.",
+    "pos": "noun"
+  },
+  {
+    "word": "exultation",
+    "definition": "A feeling of triumphant elation.",
+    "example": "She could not hide her exultation.",
+    "pos": "noun"
+  },
+  {
+    "word": "elation",
+    "definition": "Great happiness and exhilaration.",
+    "example": "The news brought elation.",
+    "pos": "noun"
+  },
+  {
+    "word": "euphoria",
+    "definition": "A feeling of intense happiness.",
+    "example": "Post-race euphoria flooded them.",
+    "pos": "noun"
+  },
+  {
+    "word": "rapture",
+    "definition": "A feeling of intense pleasure or joy.",
+    "example": "She listened in rapture.",
+    "pos": "noun"
+  },
+  {
+    "word": "ostracism",
+    "definition": "Exclusion from society or a group.",
+    "example": "The ostracism was total and devastating.",
+    "pos": "noun"
+  },
+  {
+    "word": "pariah",
+    "definition": "An outcast; a person rejected by a social group.",
+    "example": "He became a pariah after the scandal.",
+    "pos": "noun"
+  },
+  {
+    "word": "ignominy",
+    "definition": "Public shame or disgrace.",
+    "example": "The loss was an ignominy.",
+    "pos": "noun"
+  },
+  {
+    "word": "odium",
+    "definition": "General or widespread hatred or disgust.",
+    "example": "The policy attracted considerable odium.",
+    "pos": "noun"
+  },
+  {
+    "word": "diurnal",
+    "definition": "Of or during the day; recurring daily.",
+    "example": "A diurnal cycle of heat and cool.",
+    "pos": "adj"
+  },
+  {
+    "word": "perennial",
+    "definition": "Lasting or continuing through many years; perpetual.",
+    "example": "A perennial topic of debate.",
+    "pos": "adj"
+  },
+  {
+    "word": "transient",
+    "definition": "Lasting only for a short time; temporary.",
+    "example": "A transient happiness.",
+    "pos": "adj"
+  },
+  {
+    "word": "fleeting",
+    "definition": "Lasting for a very short time.",
+    "example": "A fleeting moment of peace.",
+    "pos": "adj"
+  },
+  {
+    "word": "evanescent",
+    "definition": "Soon passing out of sight or memory.",
+    "example": "An evanescent beauty.",
+    "pos": "adj"
+  },
+  {
+    "word": "transitory",
+    "definition": "Not permanent; of brief duration.",
+    "example": "Transitory pleasures.",
+    "pos": "adj"
+  },
+  {
+    "word": "immemorial",
+    "definition": "Originating in the distant past; very old.",
+    "example": "A tradition of time immemorial.",
+    "pos": "adj"
+  },
+  {
+    "word": "antediluvian",
+    "definition": "Of or belonging to the time before the Biblical flood; very old.",
+    "example": "His views were antediluvian.",
+    "pos": "adj"
+  },
+  {
+    "word": "antiquated",
+    "definition": "Old and outdated.",
+    "example": "An antiquated system.",
+    "pos": "adj"
+  },
+  {
+    "word": "moribund",
+    "definition": "At the point of death; lacking vitality.",
+    "example": "A moribund industry.",
+    "pos": "adj"
+  },
+  {
+    "word": "emergent",
+    "definition": "Arising and developing.",
+    "example": "Emergent technology.",
+    "pos": "adj"
+  },
+  {
+    "word": "incipient",
+    "definition": "In an early stage; beginning to happen.",
+    "example": "An incipient revolution.",
+    "pos": "adj"
+  },
+  {
+    "word": "seminal",
+    "definition": "Strongly influencing later developments.",
+    "example": "A seminal text in the field.",
+    "pos": "adj"
+  },
+  {
+    "word": "pivotal",
+    "definition": "Of crucial importance.",
+    "example": "A pivotal moment in history.",
+    "pos": "adj"
+  },
+  {
+    "word": "prescient",
+    "definition": "Having knowledge of events before they happen.",
+    "example": "A prescient analysis.",
+    "pos": "adj"
+  },
+  {
+    "word": "lapidary",
+    "definition": "Of writing: precise and elegant.",
+    "example": "A lapidary inscription.",
+    "pos": "adj"
+  },
+  {
+    "word": "epigrammatic",
+    "definition": "Concise and clever in expression.",
+    "example": "His epigrammatic style suited the format.",
+    "pos": "adj"
+  },
+  {
+    "word": "gnomic",
+    "definition": "Expressed in short, pithy sayings.",
+    "example": "His gnomic replies left them puzzled.",
+    "pos": "adj"
+  },
+  {
+    "word": "sibylline",
+    "definition": "Mysterious and cryptic.",
+    "example": "A sibylline utterance.",
+    "pos": "adj"
+  },
+  {
+    "word": "oracular",
+    "definition": "Hard to interpret; seeming to have great wisdom.",
+    "example": "An oracular pronouncement.",
+    "pos": "adj"
+  },
+  {
+    "word": "pithy",
+    "definition": "Concise and forcefully expressive.",
+    "example": "A pithy summary.",
+    "pos": "adj"
+  },
+  {
+    "word": "succinct",
+    "definition": "Briefly and clearly expressed.",
+    "example": "A succinct answer.",
+    "pos": "adj"
+  },
+  {
+    "word": "terse",
+    "definition": "Sparing of words; brief and to the point.",
+    "example": "A terse reply.",
+    "pos": "adj"
+  },
+  {
+    "word": "trenchant",
+    "definition": "Vigorous and effective; to the point.",
+    "example": "A trenchant analysis.",
+    "pos": "adj"
+  },
+  {
+    "word": "incisive",
+    "definition": "Intelligently analytical and clear-thinking.",
+    "example": "An incisive critique.",
+    "pos": "adj"
+  },
+  {
+    "word": "mordant",
+    "definition": "Bitingly sarcastic.",
+    "example": "His mordant humor made her wince.",
+    "pos": "adj"
+  },
+  {
+    "word": "scathing",
+    "definition": "Severely critical.",
+    "example": "A scathing review.",
+    "pos": "adj"
+  },
+  {
+    "word": "acerbic",
+    "definition": "Sharp and forthright in expression.",
+    "example": "Her acerbic commentary was legendary.",
+    "pos": "adj"
+  },
+  {
+    "word": "caustic",
+    "definition": "Sarcastic in a cutting way.",
+    "example": "His caustic wit spared no one.",
+    "pos": "adj"
+  },
+  {
+    "word": "vitriolic",
+    "definition": "Full of bitter criticism or malice.",
+    "example": "The vitriolic review was widely read.",
+    "pos": "adj"
+  },
+  {
+    "word": "bombastic",
+    "definition": "High-sounding but with little meaning.",
+    "example": "A bombastic speech.",
+    "pos": "adj"
+  },
+  {
+    "word": "turgid",
+    "definition": "Swollen and overblown; pompous.",
+    "example": "Turgid prose.",
+    "pos": "adj"
+  },
+  {
+    "word": "florid",
+    "definition": "Excessively complicated or elaborate in style.",
+    "example": "Florid prose.",
+    "pos": "adj"
+  },
+  {
+    "word": "ornate",
+    "definition": "Elaborately decorated; baroque.",
+    "example": "An ornate frame.",
+    "pos": "adj"
+  },
+  {
+    "word": "lucid",
+    "definition": "Expressed clearly; having full use of one's faculties.",
+    "example": "A lucid explanation.",
+    "pos": "adj"
+  },
+  {
+    "word": "duplicitous",
+    "definition": "Deceitful; acting in two different ways.",
+    "example": "His duplicitous behavior was exposed.",
+    "pos": "adj"
+  },
+  {
+    "word": "mendacious",
+    "definition": "Lying; untruthful.",
+    "example": "The mendacious account fooled no one.",
+    "pos": "adj"
+  },
+  {
+    "word": "perfidious",
+    "definition": "Deceitful and untrustworthy.",
+    "example": "The perfidious ally switched sides.",
+    "pos": "adj"
+  },
+  {
+    "word": "insidious",
+    "definition": "Proceeding in a gradual, subtle way with harmful effects.",
+    "example": "The insidious influence spread slowly.",
+    "pos": "adj"
+  },
+  {
+    "word": "pernicious",
+    "definition": "Having a harmful effect, especially gradually.",
+    "example": "Pernicious misinformation spread widely.",
+    "pos": "adj"
+  },
+  {
+    "word": "deleterious",
+    "definition": "Causing harm or damage.",
+    "example": "The deleterious effects became apparent.",
+    "pos": "adj"
+  },
+  {
+    "word": "noxious",
+    "definition": "Harmful or toxic.",
+    "example": "Noxious fumes filled the room.",
+    "pos": "adj"
+  },
+  {
+    "word": "virulent",
+    "definition": "Extremely harmful; bitterly hostile.",
+    "example": "A virulent strain spread quickly.",
+    "pos": "adj"
+  },
+  {
+    "word": "malevolent",
+    "definition": "Having or showing a wish to do evil.",
+    "example": "His malevolent gaze unsettled her.",
+    "pos": "adj"
+  },
+  {
+    "word": "vindictive",
+    "definition": "Having a strong wish to hurt someone who has harmed you.",
+    "example": "His vindictive response surprised everyone.",
+    "pos": "adj"
+  },
+  {
+    "word": "rancorous",
+    "definition": "Characterized by bitterness or resentment.",
+    "example": "The rancorous debate continued for months.",
+    "pos": "adj"
+  },
+  {
+    "word": "acrimonious",
+    "definition": "Angry and bitter in manner or speech.",
+    "example": "An acrimonious divorce.",
+    "pos": "adj"
+  },
+  {
+    "word": "beneficent",
+    "definition": "Generous or doing good.",
+    "example": "A beneficent patron of the arts.",
+    "pos": "adj"
+  },
+  {
+    "word": "munificent",
+    "definition": "More generous than expected.",
+    "example": "A munificent donation.",
+    "pos": "adj"
+  },
+  {
+    "word": "benevolent",
+    "definition": "Well-meaning and kindly.",
+    "example": "A benevolent institution.",
+    "pos": "adj"
+  },
+  {
+    "word": "altruistic",
+    "definition": "Showing a selfless concern for others.",
+    "example": "Her motives were genuinely altruistic.",
+    "pos": "adj"
+  },
+  {
+    "word": "philanthropic",
+    "definition": "Seeking to promote the welfare of others.",
+    "example": "His philanthropic work was extensive.",
+    "pos": "adj"
+  },
+  {
+    "word": "imperturbability",
+    "definition": "The quality of remaining calm under pressure.",
+    "example": "Her imperturbability impressed everyone.",
+    "pos": "noun"
+  },
+  {
+    "word": "synchronicity",
+    "definition": "The simultaneous occurrence of causally unrelated events.",
+    "example": "The timing felt like synchronicity.",
+    "pos": "noun"
+  },
+  {
+    "word": "ineffability",
+    "definition": "The quality of being too great to be expressed in words.",
+    "example": "The view had an ineffability she could not overcome.",
+    "pos": "noun"
+  },
+  {
+    "word": "sublimity",
+    "definition": "The quality of being awe-inspiring and magnificent.",
+    "example": "The sublimity of the canyon took his breath away.",
+    "pos": "noun"
+  },
+  {
+    "word": "transcendence",
+    "definition": "Existence or experience beyond normal limits.",
+    "example": "The music offered transcendence.",
+    "pos": "noun"
+  },
+  {
+    "word": "epiphany",
+    "definition": "A sudden revelation or insight.",
+    "example": "The walk brought an epiphany.",
+    "pos": "noun"
+  },
+  {
+    "word": "satori",
+    "language": "Japanese",
+    "definition": "A sudden flash of enlightenment.",
+    "example": "Meditation brought him to satori.",
+    "pos": "concept"
+  },
+  {
+    "word": "kenosis",
+    "language": "Ancient Greek",
+    "definition": "A self-emptying; giving up divine nature to become human.",
+    "example": "He described his sacrifice as kenosis.",
+    "pos": "concept"
+  },
+  {
+    "word": "taedium vitae",
+    "language": "Latin",
+    "definition": "A weariness of life; existential boredom.",
+    "example": "His letters were soaked in taedium vitae.",
+    "pos": "concept"
+  },
+  {
+    "word": "memento mori",
+    "language": "Latin",
+    "definition": "An object serving as a reminder of death.",
+    "example": "The skull was a memento mori.",
+    "pos": "concept"
+  },
+  {
+    "word": "carpe diem",
+    "language": "Latin",
+    "definition": "Seize the day; make the most of the present moment.",
+    "example": "He lived by carpe diem.",
+    "pos": "concept"
+  },
+  {
+    "word": "sic transit gloria mundi",
+    "language": "Latin",
+    "definition": "Thus passes the glory of the world; worldly things are fleeting.",
+    "example": "The empty palace embodied sic transit gloria mundi.",
+    "pos": "concept"
+  },
+  {
+    "word": "in medias res",
+    "language": "Latin",
+    "definition": "Starting a story in the middle of the action.",
+    "example": "The novel opens in medias res.",
+    "pos": "concept"
+  },
+  {
+    "word": "deus ex machina",
+    "language": "Latin",
+    "definition": "An unexpected power that resolves a seemingly hopeless situation.",
+    "example": "The ending relied on a deus ex machina.",
+    "pos": "concept"
+  },
+  {
+    "word": "tabula rasa",
+    "language": "Latin",
+    "definition": "A clean slate; the mind before impressions are made.",
+    "example": "He arrived at the job as a tabula rasa.",
+    "pos": "concept"
+  },
+  {
+    "word": "terra incognita",
+    "language": "Latin",
+    "definition": "Unknown territory; a subject little known.",
+    "example": "The field was terra incognita.",
+    "pos": "concept"
+  },
+  {
+    "word": "sui generis",
+    "language": "Latin",
+    "definition": "Unique; in a class of its own.",
+    "example": "The artist was truly sui generis.",
+    "pos": "concept"
+  },
+  {
+    "word": "persona non grata",
+    "language": "Latin",
+    "definition": "An unwelcome person.",
+    "example": "He became persona non grata overnight.",
+    "pos": "concept"
+  },
+  {
+    "word": "status quo",
+    "language": "Latin",
+    "definition": "The existing state of affairs.",
+    "example": "She challenged the status quo.",
+    "pos": "concept"
+  },
+  {
+    "word": "modus operandi",
+    "language": "Latin",
+    "definition": "A particular way of doing something.",
+    "example": "Precision was his modus operandi.",
+    "pos": "concept"
+  },
+  {
+    "word": "modus vivendi",
+    "language": "Latin",
+    "definition": "An arrangement allowing conflicting parties to coexist.",
+    "example": "They reached a modus vivendi.",
+    "pos": "concept"
+  },
+  {
+    "word": "quid pro quo",
+    "language": "Latin",
+    "definition": "A favor given in exchange for something.",
+    "example": "The deal was a quid pro quo.",
+    "pos": "concept"
+  },
+  {
+    "word": "prima facie",
+    "language": "Latin",
+    "definition": "Based on first impression; at first sight.",
+    "example": "The evidence was prima facie convincing.",
+    "pos": "concept"
+  },
+  {
+    "word": "sine qua non",
+    "language": "Latin",
+    "definition": "An essential condition; something absolutely necessary.",
+    "example": "Trust is the sine qua non of leadership.",
+    "pos": "concept"
+  },
+  {
+    "word": "ad hoc",
+    "language": "Latin",
+    "definition": "Created for a specific purpose.",
+    "example": "An ad hoc committee was formed.",
+    "pos": "concept"
+  },
+  {
+    "word": "bona fide",
+    "language": "Latin",
+    "definition": "Genuine; in good faith.",
+    "example": "A bona fide offer.",
+    "pos": "concept"
+  },
+  {
+    "word": "caveat emptor",
+    "language": "Latin",
+    "definition": "Let the buyer beware.",
+    "example": "The sale came with a caveat emptor.",
+    "pos": "concept"
   }
 ]
