@@ -1,0 +1,11 @@
+id: word-worth-knowing
+name: Word Worth Knowing
+summary: A daily word worth knowing
+description: Displays one curated word each day with its definition and an example sentence. Words include untranslatable concepts, beautiful English vocabulary, and philosophical terms.
+author: Jonathan Schwartz
+fileName: word_worth_knowing.star
+packageName: wordworthknowing
+tags:
+  - educational
+  - words
+  - daily

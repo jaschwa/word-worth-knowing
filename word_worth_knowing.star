@@ -78,5 +78,5 @@ def main(config):
                 ),
             ],
         ),
-        delay = 140,
+        delay = 80,
     )
